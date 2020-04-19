@@ -1,27 +1,36 @@
 <img src="https://avatars1.githubusercontent.com/u/60409396?s=460&u=4d20c0fc77001db2a31eb17e75a04e9b168305ad&v=4" style="margin: 0;">
 
-## Welcome in my README,
+## Welcome to my README,
+--------
+
+<br>
+<br>
+
+Project has been created as the official website of a small but real company from metallurgy sector, that ran only social media accounts until 
+now but grew up to stage where own www is a must-have for proper interactions with customers.
+<br>
+<br>
+
+#VALUE
+
+This project delivers values for both client and users. And for me, so it’s win-win-win! 
+<br>
+<br>
+
+##CLIENT / OWNER
+
+The client has opportunity to display products in the Web, advertise extras, attract by highlighting offers to making order, prove experience as 
+successful entrepreneur for number of years and show his technical skills through pictures of products and positive feedback from actual 
+customers and fanpage visitors.
+
+Heritage and trust gained by couple of years posting on healthy accounts Facebook and Instagram with no-fake-followers has been incorporated now 
+into webpage to build strong image of “entrepreneur you can rely”. Pictures bringing closer to product and enthusiastic comments can assure v
+isitors about how stable this company is.
+
+There’s more behind this project – client motivated by creating process of website ordered new line of logo from States, that led to creating cool 
+picture in terms of marketing and public relations. 
 
 
-
-Project has been created under requirements included in UCFD Milestone 1 document and described as Project Idea 0.
-
-`THIS IS MY README`
-
-
-## `Values`
-
-## CLIEN / OWNER
-
-
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-
-
-
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
 --------
 
@@ -44,7 +53,7 @@ Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank"
 
 https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png
 
---------
+
 
 Thanks for reading!
 
