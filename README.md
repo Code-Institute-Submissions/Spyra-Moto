@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/60409396?s=460&u=4d20c0fc77001db2a31eb17e75a04e9b168305ad&v=4" style="margin: 0;">
+<img src="https://avatars1.githubusercontent.com/u/60409396?s=460&u=4d20c0fc77001db2a31eb17e75a04e9b168305ad&v=4" alt="Spyra Moto Co." height="150" width="150" style="margin: 0;">
 
 ## Welcome to my README!
 --------
