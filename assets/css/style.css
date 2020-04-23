@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700|Notable:100,200,300,400,500,600,700'); 
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=============================FOOTER==============================*/
+
+footer {
+    background-color: #000;
+    color: rgb(230, 230, 230);
+    min-height: 100px;
+}
+
+.footer-col-title {
+    font-family: "Notable", sans-serif;
+    font-weight: 200;
+    color: rgb(230, 230, 230);
+}
+
+.follow-links {
+    padding-bottom: 20px;
+}
+
+.follow-links li a i {
+    width: 45px;
+    height: 45;
+    padding: 20px 0;
+    border-radius: 50%;
+    font-size: 15px;
+    line-height: 7px;
+    text-align: center;
+    color: rgb(230, 230, 230);
+    background-color: rgb(100, 100, 100);
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
+#footer-bridge { /*.   hey, make it darker later and add truck icon*/
+    background-color: 
+}
+
+#footer-box {
+    padding: 20px 40px;
+}
