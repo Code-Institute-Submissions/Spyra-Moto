@@ -8,13 +8,13 @@ media accounts until now but grew up to stage where own www is a must-have for p
 <br>
 <br>
 
-# VALUE
+# VALUES
 
 This project delivers values for both client and users. And for me, so it’s win-win-win! 
 <br>
 <br>
 
-## CLIENT / OWNER
+## FOR CLIENT / OWNER
 
 The client has opportunity to display products in the Web, advertise extras, attract by highlighting offers to making order, <br>
 prove experience as successful entrepreneur for number of years and show his technical skills through pictures of products <br>
@@ -28,7 +28,7 @@ There’s more behind this project – client motivated by creating process of w
 that led to creating cool picture in terms of marketing and public relations. 
 <br><br>
 <br>
-## USER / VISITOR
+## FOR USER / VISITOR
 
 The user has access to the gallery, gets offers, sees range of products and has possibility to ask for price or any additional <br>
 questions through form or using contact details. Here highlighted WhatsApp feature informs that unwelcomed international <br>

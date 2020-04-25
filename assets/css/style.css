@@ -4,7 +4,15 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 /*==========================================================================    COLORS ==============================*/
+ .bg-grey {
+     background-color: #707070;
+     color: antiquewhite;
+ }
 
+ .bg-navy {
+     background-color: #362e7a;
+        color: antiquewhite;
+ }
 
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
@@ -14,6 +22,18 @@ body {
 
 /*==========================================================================    HEADER ===============================*/
 
+
+.navbar-text {
+    font-family: "Notable", sans-serif;
+    font-size: 35px;
+    color: antiquewhite;
+    background-color: #212529;
+    letter-spacing: 3px;
+}
+
+.navbar {
+    background-color: #212529;
+}
 
 
 
