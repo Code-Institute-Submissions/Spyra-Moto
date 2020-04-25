@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700|Notable:100,200,300,400,500,600,700'); 
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+/*=============================COLORS==============================*/
+
+.ui-menu-color-fallinlove {
+    background-color: rgb(22, 22, 22);
+}
+
+.ui-menu-color-about {
+    background-color: rgb(44, 44, 44);
+}
+
+.ui-menu-color-customise {
+    background-color: rgb(66, 66, 66);
+}
+
+.ui-menu-color-media {
+    background-color: rgb(88, 88, 88);
+}
+
+
+
+
+
+
+
+/*=============================HEADER==============================*/
+
+.hvr-shutter-out-vertical:before {
+    background: rgba(226, 166, 0, 0.548);
+    height: 120px;
+}
+
+
+
+header {
+    margin: 0;
+}
+
+
+
+.logo {
+    background: url("../images/SpyraMotoLogo.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 180px;
+}
+
+
+
+.menucontainer {
+    font-size: 0;
+}
+
+
+
+#nav {
+    margin: 0;
+}
+
+
+
+#nav li {
+    font-size: 20px;
+    padding: 0;
+}
+
+
+
+.menuitem {
+    text-align: center;
+    height: 120px;
+    padding: 0;
+}
+
+
+
+.menuitem a {
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+    height: 120px;
+    width: 100%;
+}
+
+
+
+.menuitem a i. {
+    display: block;
+    color: rgb(230, 230, 230);
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+
+
+.menuitem span {
+    display: block;
+    padding-top: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    /*letter-spacing: 2px i font font-weight: slimmer if I need==========?*/
+}
+
+
+
+/*=============================FOOTER==============================*/
+
+footer {
+    background-color: #000;
+    color: rgb(230, 230, 230);
+    min-height: 100px;
+}
+
+.footer-col-title {
+    font-family: "Notable", sans-serif;
+    font-weight: 200;
+    color: rgb(230, 230, 230);
+}
+
+/*perhaps mediaquerry for md+ to center title*/
+
+.follow-links {
+    padding-bottom: 20px;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.follow-links li a i {
+    width: 65px;
+    height: 65px;
+    padding: 30px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: rgb(230, 230, 230);
+    background-color: rgb(100, 100, 100);
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#fa-instagram:hover {
+    background: #b103a8;
+    color: #fff;
+}
+
+#fa-youtube:hover {
+    background: #ff0000;
+    color: #fff;
+}
+
+#fa-facebook:hover {
+    background: #3b5998;
+    color: #fff;
+}
+
+
+#footer-bridge { /*.   hey, make it darker later and add truck icon*/
+    background-color: 
+}
+
+#footer-box {
+    padding: 20px 40px;
+}
