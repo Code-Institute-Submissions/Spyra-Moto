@@ -16,7 +16,8 @@ body {
      padding: 0;
  }
  
- #menu-color-fallinlove {
+
+#menu-color-fallinlove {
      background-color: orange;
 }
 
@@ -69,12 +70,23 @@ body {
     margin-top: 0;
 }
 
+#bg-pipeslogo {
+    padding-right: 0;
+    scroll-padding-left: o;
+}
+
 #bg-pipeslogo img {
     /* width: 100%;     */
     vertical-align: center;
     max-height: 150px;
     margin: auto;
 }
+
+.col-pipeslogo {
+    padding: 0;
+}
+
+
 
 .image-container {
     display: flex;
@@ -90,12 +102,17 @@ body {
 
 /*==========================================================================    MENU ===============================*/
 
+.col-pipeslogo {
+    padding: 0;
+}
+
 .menucontainer {
     vertical-align: center;
     text-align: center;
 }
 
 .menu-button {
+    padding: 0;
 
 }
 
