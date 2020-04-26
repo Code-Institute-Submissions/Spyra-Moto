@@ -32,6 +32,7 @@ body {
     letter-spacing: 2px;
     padding-left: 30px;
     text-align: center;
+    margin-bottom: 3px;
 }
 
 .navbar {
@@ -45,11 +46,6 @@ body {
 .navbar .ml-auto { /*==Sparkylogo margin increased*/
     margin-right: 30px;
     margin-top: 5px;
-}
-
-nav h1 {
-    color: antiquewhite;
-    margin-bottom: 5px;
 }
 
 
