@@ -30,13 +30,18 @@ body {
     color: antiquewhite;
     background-color: #000;
     letter-spacing: 2px;
-    padding-left: 30px;
+    padding-left: 0px; 
     text-align: center;
     margin-bottom: 3px;
 }
 
 .navbar {
     background-color: #000;
+    padding-bottom: 0;
+}
+
+.navbar h1 {
+    margin-bottom: 0;
 }
 
 .navbar img { /*==Sparkylogo in circle*/
@@ -45,12 +50,18 @@ body {
 
 .navbar .ml-auto { /*==Sparkylogo margin increased*/
     margin-right: 30px;
-    margin-top: 5px;
+    margin-top: 0;
 }
 
 #bg-pipeslogo img {
     width: 100%;
     vertical-align: center;
+}
+
+.pipeslogo {
+    background-repeat: no-repeat;
+    min-height: 150px;
+    padding: 0
 }
 
 
