@@ -12,7 +12,8 @@ body {
 
  .bg-navy {
      background-color: #362e7a;
-        color: antiquewhite;
+     color: antiquewhite;
+     padding: 0;
  }
 
 
@@ -69,6 +70,14 @@ body {
     background-repeat: no-repeat;
     /* min-height: 150px; */
     padding: 0
+}
+
+
+/*==========================================================================    MENU ===============================*/
+
+.menucontainer {
+    vertical-align: center;
+    text-align: center;
 }
 
 
