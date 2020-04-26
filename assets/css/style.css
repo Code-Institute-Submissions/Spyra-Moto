@@ -5,8 +5,8 @@ body {
     background-color: #707070;
 }
 /*==========================================================================    COLORS ==============================*/
- .bg-grey {
-     background-color: #212529;
+ #bg-pipeslogo {
+     background-color: #000;
      color: antiquewhite;
  }
 
@@ -47,6 +47,12 @@ body {
     margin-right: 30px;
     margin-top: 5px;
 }
+
+#bg-pipeslogo img {
+    width: 100%;
+    vertical-align: center;
+}
+
 
 
 /*==========================================================================    HOVER ================================*/
