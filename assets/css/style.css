@@ -31,6 +31,7 @@ body {
     background-color: #000;
     letter-spacing: 2px;
     padding-left: 30px;
+    text-align: center;
 }
 
 .navbar {
@@ -43,27 +44,13 @@ body {
 
 .navbar .ml-auto { /*==Sparkylogo margin increased*/
     margin-right: 30px;
+    margin-top: 5px;
 }
 
 nav h1 {
     color: antiquewhite;
     margin-bottom: 5px;
 }
-
-#supertitle {
-    font-family: "Notable", sans-serif;
-    font-size: 35px;
-    color: antiquewhite;
-    background-color: #000;
-    letter-spacing: 2px;
-    padding-left: 30px;
-}
-
-#sparky {
-    background-color: #000;
-    color: antiquewhite;
-}
-
 
 
 /*==========================================================================    HOVER ================================*/
