@@ -15,7 +15,22 @@ body {
      color: antiquewhite;
      padding: 0;
  }
+ 
+ #menu-color-fallinlove {
+     background-color: orange;
+}
 
+#menu-color-about {
+     background-color: red;
+}
+
+#menu-color-customise {
+     background-color: purple;
+}
+
+#menu-color-media {
+     background-color: skyblue;
+}
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
 
@@ -80,6 +95,9 @@ body {
     text-align: center;
 }
 
+.menu-button {
+
+}
 
 
 /*==========================================================================    HOVER ================================*/
