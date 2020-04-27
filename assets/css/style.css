@@ -17,20 +17,20 @@ body {
  }
  
 
-#menu-color-fallinlove {
-     background-color: orange;
+#menu-color-home {
+     background-color: #000;
 }
 
 #menu-color-about {
-     background-color: red;
+     background-color: #202020;
 }
 
 #menu-color-customise {
-     background-color: purple;
+     background-color: #404040;
 }
 
 #menu-color-media {
-     background-color: skyblue;
+     background-color: #606060;
 }
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
@@ -113,17 +113,33 @@ body {
 
 .menu-button {
     padding: 0;
-    min-height: 150px;
-    color: #000;   
+    min-height: 150px;  
 }
 
 .menu-button i {
-    font-size: 200%;
+    font-size: 400%;
+    padding: 15px 0 25px 0;
+    color: antiquewhite; 
+}
+
+.menu-button h5 {
+    color: antiquewhite; 
+    font-weight: 600;
+    font-family: "Notable", sans-serif;
+    letter-spacing: 2px;
 }
 
 
 /*==========================================================================    HOVER ================================*/
 
+
+.menu-button h5:hover {
+    color: rgb(255, 196, 0);
+}
+
+.menu-button a i:hover {
+    color: rgb(255, 196, 0);
+}
 
 
 
