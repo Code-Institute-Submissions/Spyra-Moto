@@ -113,7 +113,12 @@ body {
 
 .menu-button {
     padding: 0;
+    min-height: 150px;
+    color: #000;   
+}
 
+.menu-button i {
+    font-size: 200%;
 }
 
 
