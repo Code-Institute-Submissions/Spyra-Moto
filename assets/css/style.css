@@ -117,7 +117,7 @@ body {
 
 .menu-button i {
     font-size: 250%;
-    padding: 15px 0 25px 0;
+    padding: 30px 0 20px 0;
     color: antiquewhite; 
     width: 100%;
 }
@@ -169,6 +169,21 @@ body {
 /*==========================================================================    FOOTER ===============================*/
 
 
+.whole-footer {
+    padding: 0;
+}
+
+.footcol-faq {
+    background-color: orange;
+}
+
+.footcol-contact {
+    background-color: rgb(118, 72, 128);
+}
+
+.footcol-follow {
+    background-color: green;
+}
 
 
 /*==========================================================================    MEDIA QUERIES ========================*/
@@ -206,6 +221,7 @@ body {
 .fa-tools {
     color: chartreuse;
     font-size: 600%;
+    margin-bottom: 30px;
 }
 
 section {
