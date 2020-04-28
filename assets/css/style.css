@@ -77,8 +77,9 @@ body {
 
 #bg-pipeslogo img {
     vertical-align: center;
-    max-height: 150px;
+    max-height: 135px;
     margin: auto;
+    margin-bottom: 15px;
 }
 
 .col-pipeslogo {
