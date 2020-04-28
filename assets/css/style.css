@@ -25,7 +25,7 @@ body {
      background-color: #202020;
 }
 
-#menu-color-customise {
+#menu-color-custom {
      background-color: #404040;
 }
 
@@ -76,7 +76,6 @@ body {
 }
 
 #bg-pipeslogo img {
-    /* width: 100%;     */
     vertical-align: center;
     max-height: 150px;
     margin: auto;
@@ -95,7 +94,6 @@ body {
 
 .pipeslogo {
     background-repeat: no-repeat;
-    /* min-height: 150px; */
     padding: 0
 }
 
@@ -117,7 +115,7 @@ body {
 }
 
 .menu-button i {
-    font-size: 400%;
+    font-size: 250%;
     padding: 15px 0 25px 0;
     color: antiquewhite; 
 }
@@ -128,6 +126,7 @@ body {
     font-family: "Notable", sans-serif;
     letter-spacing: 2px;
 }
+
 
 
 /*==========================================================================    HOVER ================================*/
@@ -148,9 +147,17 @@ body {
 
 
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+/*==========================================================================    MEDIA QUERIES ========================*/
 
-
+@media(max-width: 1024px) {
+    .menu-button h5 {
+        font-weight: 500;
+    }
+    .menu-button i {
+        font-size: 200%;
+        padding-top: 30px;
+    }
+}
 
 
 /*==========================================================================    FUTURE DIVISION ======================*/
