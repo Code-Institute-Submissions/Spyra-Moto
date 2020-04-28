@@ -125,6 +125,7 @@ body {
     font-weight: 600;
     font-family: "Notable", sans-serif;
     letter-spacing: 2px;
+    text-decoration: none;
 }
 
 
@@ -157,6 +158,23 @@ body {
         font-size: 200%;
         padding-top: 30px;
     }
+}
+
+
+@media screen and (max-width: 320px) {
+  div.navbar {
+        display: none;
+  }
+}
+
+@media screen and (max-width: 320px) and (min-width: 1440px) { /* for map of customers feature in future */
+  div.map {
+    font-size: px;
+    font-weight: ;
+    padding: 30px;
+    border: 8px solid black;
+    background: rgb(122, 122, 122);
+  }
 }
 
 
