@@ -118,6 +118,7 @@ body {
     font-size: 250%;
     padding: 15px 0 25px 0;
     color: antiquewhite; 
+    width: 100%;
 }
 
 .menu-button h5 {
@@ -125,12 +126,14 @@ body {
     font-weight: 600;
     font-family: "Notable", sans-serif;
     letter-spacing: 2px;
-    text-decoration: none;
+    margin-bottom: 0;
+    padding-bottom: 40px;
 }
 
 .menu-button a {
     height: 150px;
     width: 100%; 
+    text-decoration: none;
 }
 
 .menu-button span {
@@ -148,6 +151,16 @@ body {
 
 .menu-button a i:hover {
     color: rgb(255, 196, 0);
+}
+
+
+
+.hvr-shutter-out-vertical:before {
+    background: rgba(189, 123, 0, 0.2);
+}
+
+.hvr-shutter-out-vertical {
+    background-color: rgba(0,0,0,0);
 }
 
 
@@ -196,6 +209,7 @@ body {
 
 section {
     text-align: center;
+    margin-top: 250px;
 }
 
 
