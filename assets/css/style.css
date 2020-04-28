@@ -174,15 +174,18 @@ body {
 }
 
 .footcol-faq {
-    background-color: orange;
+    background-color: #000;
+    color: antiquewhite;
 }
 
 .footcol-contact {
-    background-color: rgb(118, 72, 128);
+    background-color: #404040;
+    color:antiquewhite;
 }
 
 .footcol-follow {
-    background-color: green;
+    background-color: #606060;
+    color:antiquewhite;
 }
 
 
