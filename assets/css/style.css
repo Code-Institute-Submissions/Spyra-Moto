@@ -94,7 +94,7 @@ body {
 
 .pipeslogo {
     background-repeat: no-repeat;
-    padding: 0
+    padding: 0;
 }
 
 
@@ -178,7 +178,16 @@ body {
 }
 
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+/*==========================================================================    TEMPORARY ============================*/
+
+.fa-tools {
+    color: chartreuse;
+    font-size: 600%;
+}
+
+section {
+    text-align: center;
+}
 
 
 
