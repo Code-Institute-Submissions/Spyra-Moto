@@ -171,7 +171,26 @@ body {
 
 .whole-footer {
     padding: 0;
+}
+
+.whole-footer h4 {
+    padding: 15px 0 5px 20px;
     font-family: "Notable", sans-serif;
+}
+
+.whole-footer p {
+    font-family: "Montserrat";
+    padding-left: 30px;
+}
+
+.whole-footer p i {
+    padding-right: 15px;
+    font-size: 150%;
+}
+
+.footcol {
+    color: antiquewhite;
+    padding-left: 10px;
 }
 
 
@@ -179,26 +198,27 @@ body {
 
 .footcol-contact { /*================= CONTACT =================*/
     background-color:#000;
-    color:antiquewhite;
 }
 
-.footcol-contact p {
-    background-color:#000;
-    color:antiquewhite;
+.fa-whatsapp {
+    color: #25D366;
+    font-weight: 900;
 }
+
+
 
 
 
 .footcol-follow { /*=================== FOLLOW ================*/
-    background-color:#404040 ;
-    color:antiquewhite;
+    background-color:#404040;
 }
+
+
 
 
 
 .footcol-faq { /*======================= FAQ =================*/
     background-color: #606060;
-    color: antiquewhite;
 }
 
 .footcol-faq h4 {
