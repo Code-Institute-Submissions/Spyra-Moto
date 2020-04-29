@@ -171,22 +171,43 @@ body {
 
 .whole-footer {
     padding: 0;
+    font-family: "Notable", sans-serif;
 }
 
-.footcol-faq {
-    background-color: #000;
+
+
+
+.footcol-contact { /*================= CONTACT =================*/
+    background-color:#000;
+    color:antiquewhite;
+}
+
+.footcol-contact p {
+    background-color:#000;
+    color:antiquewhite;
+}
+
+
+
+.footcol-follow { /*=================== FOLLOW ================*/
+    background-color:#404040 ;
+    color:antiquewhite;
+}
+
+
+
+.footcol-faq { /*======================= FAQ =================*/
+    background-color: #606060;
     color: antiquewhite;
 }
 
-.footcol-contact {
-    background-color: #404040;
-    color:antiquewhite;
+.footcol-faq h4 {
+    letter-spacing: 5px;
 }
 
-.footcol-follow {
-    background-color: #606060;
-    color:antiquewhite;
-}
+
+
+
 
 
 /*==========================================================================    MEDIA QUERIES ========================*/
