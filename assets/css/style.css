@@ -200,8 +200,7 @@ body {
 
 
 .footcol-contact { /*================= CONTACT =================*/
-    /* background-color:#000; */
-    background-color: rgb(255, 193,22);
+    background-color:#000;
 }
 
 .fa-whatsapp {
@@ -213,8 +212,7 @@ body {
 
 
 .footcol-follow { /*=================== FOLLOW ================*/
-    /* background-color:#404040; */
-    background-color: rgb(255, 193,22);
+    background-color:#404040;
 }
 
 .footcol-follow i {
@@ -256,12 +254,12 @@ body {
     -o-transition: all 0.35s ease-in-out;
     background-color: #000;
     color: antiquewhite;
-    font-size: 13px;
-    width: 32px;
-    height: 32px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
-    line-height: 7px;
-    padding: 12px 0;
+    line-height: 9px;
+    padding: 20px 0;
 }
 
 
