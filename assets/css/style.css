@@ -5,6 +5,9 @@ body {
     background-color: #707070;
 }
 /*==========================================================================    COLORS ==============================*/
+
+/*=================================  OFFICIAL SPYRAMOTO UNIFICATION FOR WEBSITE COLOR IS rgb(255, 193,22)  */
+
  #bg-pipeslogo {
      background-color: #000;
      color: antiquewhite;
@@ -147,11 +150,11 @@ body {
 
 
 .menu-button h5:hover {
-    color: rgb(255, 196, 0);
+    color: rgb(255, 193,22);
 }
 
 .menu-button a i:hover {
-    color: rgb(255, 196, 0);
+    color: rgb(255, 193,22);
 }
 
 
@@ -197,7 +200,8 @@ body {
 
 
 .footcol-contact { /*================= CONTACT =================*/
-    background-color:#000;
+    /* background-color:#000; */
+    background-color: rgb(255, 193,22);
 }
 
 .fa-whatsapp {
@@ -209,7 +213,8 @@ body {
 
 
 .footcol-follow { /*=================== FOLLOW ================*/
-    background-color:#404040;
+    /* background-color:#404040; */
+    background-color: rgb(255, 193,22);
 }
 
 .footcol-follow i {
@@ -222,14 +227,26 @@ body {
     text-align: center;
 }
 
-.follow-links li a i:hover {
-    background: blueviolet;
-    color: orangered;
+
+
+#icon-insta:hover {
+    background: #b103a8;
+    color: #fff;
 }
 
 #icon-insta:hover {
-    background: #fcaf45;
-    color: #000;
+    background: #b103a8;
+    color: #fff;
+}
+
+#icon-yt {
+    color: #fff;
+    background: #ff0000;
+}
+
+#icon-fb {
+    color: #fff;
+    background: #3b5998;
 }
 
 .follow-links li a i {
