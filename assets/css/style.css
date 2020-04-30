@@ -221,31 +221,50 @@ body {
 }
 
 .follow-links {
-    padding-top: 10px;
+    padding-top: 8px;
     text-align: center;
 }
 
 
 
-#icon-insta:hover {
+#icon-insta {
     background: #b103a8;
     color: #fff;
 }
 
 #icon-insta:hover {
-    background: #b103a8;
-    color: #fff;
+    background: rgb(255, 193,22);
+    color: #404040;
 }
+
+
+
 
 #icon-yt {
     color: #fff;
     background: #ff0000;
 }
 
+#icon-yt:hover {
+    background: rgb(255, 193,22);
+    color: #404040;
+}
+
+
+
+
 #icon-fb {
     color: #fff;
     background: #3b5998;
 }
+
+#icon-fb:hover {
+    background: rgb(255, 193,22);
+    color: #404040;
+}
+
+
+
 
 .follow-links li a i {
     transition: all 0.35s ease-in-out;
@@ -261,8 +280,6 @@ body {
     line-height: 9px;
     padding: 20px 0;
 }
-
-
 
 
 
