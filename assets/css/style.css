@@ -321,6 +321,21 @@ body {
   }
 }
 
+@media screen and (min-width: 576px) and (max-width: 870px) { /* remove icons from contact */
+  .footcol-contact i {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 871px) and (max-width: 950px) { /* decrease padding left for icons paragraph in contact */
+  .footcol-contact p {
+    padding-left: 20px;
+  }
+}
+
+
+/*==========================================================================    TO ADD LATER ============================*/
+
 @media screen and (max-width: 320px) and (min-width: 1440px) { /* for map of customers feature in future */
   div.map {
     font-size: px;
