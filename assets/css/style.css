@@ -366,15 +366,30 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     display: flex;
-
+    align-items: center;
+    justify-content: center;
     position: relative;
+}
+
+.dream-container h1 {
+    color: rgb(255, 193, 22);
+    margin-bottom: 250px;
+}
+
+.dream-container h2 {
+    font-size: 300%;
+    color: antiquewhite;
+}
+
+.dream-container h3 {
+    color: #999999;
 }
 
 .dimmed {
   position: relative;
 }
 
-.dimmed:before {
+.dimmed:after {
   content: " ";
   z-index: 10;
   display: block;
