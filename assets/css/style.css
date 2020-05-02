@@ -273,11 +273,11 @@ body {
     -o-transition: all 0.35s ease-in-out;
     background-color: #000;
     color: antiquewhite;
-    font-size: 20px;
+    font-size: 30px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    line-height: 9px;
+    line-height: 9px; 
     padding: 20px 0;
 }
 
@@ -321,14 +321,30 @@ body {
   }
 }
 
-@media screen and (min-width: 576px) and (max-width: 870px) { /* remove icons from contact */
+@media screen and (min-width: 576px) and (max-width: 870px) { /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
+
   .footcol-contact i {
     display: none;
   }
+
+  .footcol-faq i {
+    display: none;
+  }
+
+  .footcol-faq p {
+    padding-left: 20px;
+  }
 }
 
-@media screen and (min-width: 871px) and (max-width: 950px) { /* decrease padding left for icons paragraph in contact */
+
+
+@media screen and (min-width: 871px) and (max-width: 950px) { /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
+  
   .footcol-contact p {
+    padding-left: 20px;
+  }
+
+  .footcol-faq p {
     padding-left: 20px;
   }
 }
