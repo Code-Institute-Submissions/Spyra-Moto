@@ -356,6 +356,51 @@ body {
   }
 }
 
+/*==========================================================================    CONTAINERS  ======================*/
+
+.dream-container {
+    height: 80vh;
+    background: url("../images/bobber.jpg") no-repeat bottom right fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    display: flex;
+
+    position: relative;
+}
+
+.dimmed {
+  position: relative;
+}
+
+.dimmed:before {
+  content: " ";
+  z-index: 10;
+  display: block;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+
+/*==========================================================================    FUTURE DIVISION ======================*/
+
+
+/*==========================================================================    FUTURE DIVISION ======================*/
+
+
+/*==========================================================================    FUTURE DIVISION ======================*/
+
+
+/*==========================================================================    FUTURE DIVISION ======================*/
+
+
+
+
 
 /*==========================================================================    TO ADD LATER ============================*/
 
@@ -372,7 +417,7 @@ body {
 
 /*==========================================================================    TEMPORARY ============================*/
 
-.fa-tools {
+#temporary-icons i {
     color: chartreuse;
     font-size: 600%;
     margin-bottom: 30px;
@@ -385,4 +430,4 @@ section {
 
 
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+
