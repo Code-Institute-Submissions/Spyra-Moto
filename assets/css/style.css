@@ -20,6 +20,8 @@ body {
  }
  
 
+
+
 #menu-color-home {
      background-color: #000;
 }
@@ -28,13 +30,15 @@ body {
      background-color: #202020;
 }
 
-#menu-color-custom {
+#menu-color-range {
      background-color: #404040;
 }
 
 #menu-color-media {
      background-color: #606060;
 }
+
+
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
 
@@ -160,13 +164,16 @@ body {
 
 
 .hvr-shutter-out-vertical:before {
-    background: rgba(189, 123, 0, 0.2);
+    background: rgb(153, 107, 22);
 }
 
 .hvr-shutter-out-vertical {
     background-color: rgba(0,0,0,0);
 }
 
+.activated {
+    background-color: rgb(163, 66, 10); /*===================== mad color just temporary */
+} 
 
 
 /*==========================================================================    FOOTER ===============================*/
