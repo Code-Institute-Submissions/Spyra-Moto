@@ -359,7 +359,7 @@ body {
 /*==========================================================================    CONTAINERS  ======================*/
 
 .dream-container {
-    height: 80vh;
+    height: 100vh;
     background: url("../images/bobber.jpg") no-repeat bottom right fixed;
     background-size: cover;
     -webkit-background-size: cover;
@@ -371,35 +371,31 @@ body {
     position: relative;
 }
 
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.65);
+}
+
+
 .dream-container h1 {
-    color: rgb(255, 193, 22);
-    margin-bottom: 250px;
-}
-
-.dream-container h2 {
-    font-size: 300%;
     color: antiquewhite;
+    font-weight: 800;
+    text-align: center;
 }
 
-.dream-container h3 {
-    color: #999999;
+#intro-title {
+    color: rgb(255, 193, 22);
+    margin-bottom: 150px;
+    font-weight: 600;
+    text-align: center;
+    font-family: "Notable", sans-serif;
 }
 
-.dimmed {
-  position: relative;
-}
 
-.dimmed:after {
-  content: " ";
-  z-index: 10;
-  display: block;
-  position: absolute;
-  height: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.5);
-}
 
 
 /*==========================================================================    FUTURE DIVISION ======================*/
