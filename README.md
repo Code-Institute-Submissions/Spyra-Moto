@@ -118,13 +118,14 @@ and positive feedback from actual customers and fanpage visitors.
 <br><br>
 Heritage and trust gained by couple of years posting on healthy accounts Facebook and Instagram with no-fake-followers <br>
 has been incorporated now into webpage to build strong image of “entrepreneur you can rely”. Pictures bringing closer to <br>
-product and enthusiastic comments can assure visitors about how stable this company is.
+product and enthusiastic comments can assure new visitors about how stable this company is.
 <br><br>
 There’s more behind this project – client motivated by creating process of the website ordered new line of `logo` from States, <br>
-that led to creating cool picture in terms of marketing and public relations. 
+that led to creating cool picture in terms of overall marketing and public relations. 
 <br><br>
 <br>
 
+<!-- TO BE CONTINUED -->
 
 ### User goals
 
