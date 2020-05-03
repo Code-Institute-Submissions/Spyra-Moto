@@ -1,28 +1,166 @@
-## Welcome to README of
-<br>
-<img src="./assets/images/SpyraMotoLogo.jpeg" class="img-fluid" alt="SPYRAMOTO logo">
-<br>
-
 # SPYRAMOTO | CUSTOM EXHAUSTS
+<br>
+<img src="./assets/images/TEMPORARY_Responsive.png" alt="SPYRAMOTO responsive test" width="50%">
+<br>
+<br>
+<br>
+This project has been created as an official website for a small but really existing company from the market of custom-built motorcycle parts. <br>
+It will be a debut website as they ran only social media accounts until now but grew up to stage where own www is a must-have for their goals.
+<br>
+<br>
 
-    LIST 
+---
+
+## Contents:
+
+* UX
+    * Project Goals
+    * User Goals
+    * User Stories
+    * Designer Goals
+    * Design Choices
+        * Fonts
+        * Colours       
+* Wireframes
+* Features
+* Future Goals
+* Technology Used
+* Testing
+    * Issues and Resolutions
+* Known Bugs
+* Deployment
+* Credits
+* Acknowledgements
+
 
  <!-- HERE GOES MANDATORY CI TEMPLATE:  -->
-
-# Your Project's Name
-
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+<br>
+<br>
+<br>
  
-## UX
+
+## UX (User Experience)
+
+### Project Goals
+
+The goal of this project is to create with use of `HTML` and `CSS` languages a static front-end site that will link two parties by presenting 
+information demanded by customers and desired by owner.
+
  
+### Business Goals
+
+* Goal: Increase sales.
+    * Having a website to being officialy present in the internet, well-organized content, user-friendly site, effective calls to action, over the 
+      time establish good conversion rate (unsettled / unknown yet for this kind of niche market and not having this sort of data from past),
+    * Motivate an audience to take next step (call, text, e-mail or submit a web inquiry). Designed pages and implemented features should serving 
+      to that goal by many marketing and decision-making ways.
+
+* Gain trust.
+    * Delivering history of company confirmed in timeline on social media,
+    * Assuring quality of product by providing buyers reviews,
+    * Upfront display of models highlighting quality of craftsmanship,
+    * Offering lifetime warranty with shipment cost covered.
+
+* Improve communication with potential customers. 
+    * Present contact details for different communication channels.
+        * Highlight benefits of WhatsApp contact.
+   
+* Increase number of social media real followers.
+    * stablishing easy access to owners socials channels.
+
+* Become an growing engineer.
+    * Providing information about wide range of products, 
+    * Releasing teaser about research and tests of new materials to be introduced in near future, 
+    * Providing open-minded approach to external, unlisted models or requested extra shaped / custom-tailored projects.
+
+
+ 
+
+### Targeting
+
+* Who is the focus of the goal? 
+    * a biker who wants to tuning their machine in significant way by adding hand crafted exhaust,
+    * a friend or close person (or group) who knows one interest and want to buy a gift / surprise,
+    * motorcycle owner, enthusiast of bold design.
+
+* Why users buy a product? 
+    * to feel satisfaction while driving,
+    * to be noticed by other road users,
+    * to make impression in visited places by look and sound,
+    * to be recognizable differnet among all riders on the same bike model, 
+    * to share their proud with social media,
+    * to make a gift for someone else,
+    * to reach for a Bucket List item.
+
+
+* What they're worried about? 
+    * high prices, 
+    * hidden fees, 
+    * long time of product delivered, 
+    * fake company (scam), 
+    * unskilled welder (bungler),
+    * `poor materials` / quality, 
+    * bad look of product. 
+    
+
+* How to help them? 
+    * clear straight prices, 
+    * walk through order to delivery process
+    * assurance of delivery fee included, 
+    * gain trust by proving buyers good experience and social media reputation, pictures of products and from buyerrs feedback.
+
+
+### Business values
+
+The owner has an opportunity to display products in the Web, advertise extras, attract buy decision by highlighting offers, <br>
+prove experience as successful entrepreneur for number of years and show his technical skills through pictures of products <br>
+and positive feedback from actual customers and fanpage visitors.
+<br><br>
+Heritage and trust gained by couple of years posting on healthy accounts Facebook and Instagram with no-fake-followers <br>
+has been incorporated now into webpage to build strong image of “entrepreneur you can rely”. Pictures bringing closer to <br>
+product and enthusiastic comments can assure visitors about how stable this company is.
+<br><br>
+There’s more behind this project – client motivated by creating process of the website ordered new line of `logo` from States, <br>
+that led to creating cool picture in terms of marketing and public relations. 
+<br><br>
+<br>
+
+
+### User goals
+
+The main expected user is a broad field but expected to fall into one of the below criteria
+
+1. A casual user
+2. Someone wanting a quiz time waster with little to invest
+3. Quiz enthusiast
+
+With regards to other sites online, this site ideally needs to be
+
+1. Easy to use
+2. Be quick and easy to start and complete
+3. Be able to restart and keep the user engaged consistently
+4. Be updated with new content regularly 
+5. Visually appealing but not too harsh on the eye
+
+
+### User stories
+
+
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+
+
+
+
+
+
+
 
 ## Features
 
@@ -95,38 +233,36 @@ In addition, if it is not obvious, you should also describe how to run your code
 
  <!-- ALL ABOVE TO BE EDITED!  -->
 
+`FRESH NOTES FOR LATER:`
 
+* The goal is to motivate an audience to take next step (call, text, e-mail or submit a web inquiry). Pages and features implemented are serving to that goal by many ways.
+
+* More customers - who are these customers? How many more of them is needed? What exactly is expected of customers (BUY in first place, FOLLOW social media helping spread of the brand among friends)
+
+* 
+
+* Goal is measureable via number of requests send to owner via social media and available contact details such as phone, whatsup or e-mail
+
+* Perfect customer: visits webbsite, sends enquire to oreder pipes it's once-off, pretty rare that same customer will buy another pipes over the time. Next he could share his pretty pipes around all friends getting them jealous but interested.
+
+* Whats working? What's not working? What could be better?
+
+====
 <br>
 <br>
 
 
 --------
 
-Project has been created as the official website of a small but real company from metallurgy sector, that ran only social <br>
-media accounts until now but grew up to stage where own www is a must-have for proper interactions with customers.
-<br>
-<br>
+
 
 ## VALUES
 
-This project delivers values for both client and users. And for me, so it’s win-win-win! 
 <br>
 <br>
 
-### FOR CLIENT / OWNER
 
-The client has opportunity to display products in the Web, advertise extras, attract by highlighting offers to making order, <br>
-prove experience as successful entrepreneur for number of years and show his technical skills through pictures of products <br>
-and positive feedback from actual customers and fanpage visitors.
-<br><br>
-Heritage and trust gained by couple of years posting on healthy accounts Facebook and Instagram with no-fake-followers <br>
-has been incorporated now into webpage to build strong image of “entrepreneur you can rely”. Pictures bringing closer to <br>
-product and enthusiastic comments can assure visitors about how stable this company is.
-<br><br>
-There’s more behind this project – client motivated by creating process of website ordered new line of `logo` from States, <br>
-that led to creating cool picture in terms of marketing and public relations. 
-<br><br>
-<br>
+
 ### FOR USER / VISITOR
 
 The user has access to the gallery, gets offers, sees range of products and has possibility to ask for price or any additional <br>
@@ -143,8 +279,11 @@ Contact form delivers simple communication channel to ask whatever they like.
 <br>
 ### HUMBLE ME
 
+This project delivers values for both client and users. And for me, so it’s win-win-win
+
 This was great opportunity to create content, set and consult PR line, invent and test some marketing tools and combine all <br>
 that with good design. 
+
 
 <br><br>
 --------
