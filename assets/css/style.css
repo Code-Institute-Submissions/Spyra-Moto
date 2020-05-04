@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700|Notable:100,200,300,400,500,600,700'); 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Racing+Sans+One:100,200,300,400,500,600,700'); 
 
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
     background-color: #707070;
 }
 /*==========================================================================    COLORS ==============================*/
@@ -49,7 +49,7 @@ body {
 
 
 .navbar-text {
-    font-family: "Notable", sans-serif;
+    font-family: "Racing Sans One", sans-serif;
     font-size: 35px;
     color: antiquewhite;
     background-color: #000;
@@ -132,7 +132,7 @@ body {
 .menu-button h5 {
     color: antiquewhite; 
     font-weight: 600;
-    font-family: "Notable", sans-serif;
+    font-family: "Racing Sans One", sans-serif;
     letter-spacing: 2px;
     margin-bottom: 0;
     padding-bottom: 40px;
@@ -185,11 +185,11 @@ body {
 
 .whole-footer h4 {
     padding: 15px 0 5px 20px;
-    font-family: "Notable", sans-serif;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 .whole-footer p {
-    font-family: "Montserrat";
+    font-family: "Open Sans";
     padding-left: 30px;
 }
 
@@ -360,7 +360,7 @@ body {
 
 .dream-container {
     height: 100vh;
-    background: url("../images/cyclop.jpg") no-repeat bottom right fixed;
+    background: url("../images/cyclop.jpg") no-repeat bottom center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -390,10 +390,9 @@ body {
 #intro-stopdreaming {
     color: rgb(255, 193, 22);
     margin-bottom: 150px;
-    font-weight: 600;
     text-align: center;
-    font-family: "Notable", sans-serif;
-    font-size: 200%;
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 300%;
 }
 
 
@@ -401,7 +400,16 @@ body {
 
 
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+/*==========================================================================    BLOCK DIVIDERS ======================*/
+
+.general-divider {
+    width: 150px;
+    height: 5px;
+    border: 0;
+    background-color: rgb(255, 193, 22);
+}
+
+
 
 
 /*==========================================================================    FUTURE DIVISION ======================*/
