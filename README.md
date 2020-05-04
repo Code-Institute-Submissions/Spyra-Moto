@@ -13,8 +13,11 @@ It will be a debut website as they ran only social media accounts until now but 
 
 ## Contents:
 
-* UX
+* UX (User Experience)
     * Project Goals
+    * Business Goals
+    * Targeting
+    * Business Values
     * User Goals
     * User Stories
     * Designer Goals
@@ -185,6 +188,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+<!-- Popper.js and jQuerry - both as part of Boootstrap -->
+
 
 ## Testing
 
@@ -193,6 +198,8 @@ In this section, you need to convince the assessor that you have conducted enoug
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+
+<!-- Tested: links (correct destination, blank or not etc), hovers, responsiveness -->
 
 1. Contact form:
     1. Go to the "Contact Us" page

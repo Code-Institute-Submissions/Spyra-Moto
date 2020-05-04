@@ -360,7 +360,7 @@ body {
 
 .dream-container {
     height: 100vh;
-    background: url("../images/bobber.jpg") no-repeat bottom right fixed;
+    background: url("../images/cyclop.jpg") no-repeat bottom right fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -387,13 +387,16 @@ body {
     text-align: center;
 }
 
-#intro-title {
+#intro-stopdreaming {
     color: rgb(255, 193, 22);
     margin-bottom: 150px;
     font-weight: 600;
     text-align: center;
     font-family: "Notable", sans-serif;
+    font-size: 200%;
 }
+
+
 
 
 
