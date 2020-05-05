@@ -38,6 +38,11 @@ body {
      background-color: #606060;
 }
 
+.quotes { /*================================>>>>>>>>>,<<<<<<>>>>>><<<<<<<>>>>>>><<< TEMPORARY STYLING */
+    background: navy;
+    color: chocolate;
+    padding-top: 33px;
+}
 
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
