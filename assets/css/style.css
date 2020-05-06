@@ -313,7 +313,7 @@ body {
 
 
 
-/*==========================================================================   @ MEDIA QUERIES ========================*/
+/*===================================================================================   @ MEDIA QUERIES ========================*/
 
 @media(max-width: 1024px) {
     .menu-button h5 {
@@ -332,7 +332,8 @@ body {
   }
 }
 
-@media screen and (min-width: 576px) and (max-width: 870px) { /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
+@media screen and (min-width: 576px) and (max-width: 870px) { 
+    /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
 
   .footcol-contact i {
     display: none;
@@ -349,8 +350,8 @@ body {
 
 
 
-@media screen and (min-width: 871px) and (max-width: 950px) { /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
-  
+@media screen and (min-width: 871px) and (max-width: 950px) { 
+  /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
   .footcol-contact p {
     padding-left: 20px;
   }
@@ -424,19 +425,19 @@ body {
 
 /*==========================================================================    MEDIA ======================*/
 
-.media h2 {
+.medias h2 {
     font-size: 30px;
     color: #202020;
 }
 
-.media h3 {
-    font-weight: 800;
+.medias h3 {
+    font-weight: 300;
     color: #404040;
 }
 
  /*============================ EMBEDDED =================*/
 .embedded { 
-    background-color: rgb(60, 60, 60);
+    background-color: rgb(160, 15, 15);
 }
 
 
@@ -448,7 +449,7 @@ body {
  }
 
  .ipad img {
-     width: 275px;
+     width: 200px;
  }
 
  .interviews h3 {
@@ -457,19 +458,29 @@ body {
 
 .interviews .col-sm a {
     text-decoration: none;
-    color: #000
 }
 
 .interviews {
-     background-color: #959595;
-     color: #000;
-     text-decoration: none;
+     background-color: #999999;
 }
 
+.interview-two {
+    background-color: #909090;
+}
 
  .teaser {
      font-style: italic;
  }
+
+  .interview {
+      padding-bottom: 15px;
+  }
+  .interview-footer {
+      position: absolute;
+      text-align: center
+      bottom: 15px;
+      left: auto;
+  }
 
 /*==========================================================================    BUTTONS ==============================*/
 
