@@ -411,44 +411,69 @@ body {
     background-color: rgb(255, 193, 22);
 }
 
+.press-divider {
+    width: 250px;
+    height: 5px;
+    border: 0;
+    background-color: #404040;
+    margin-top: 30px;
+}
+
 
 
 
 /*==========================================================================    MEDIA ======================*/
- 
 
- .oval {
-     padding-top: 30px;
- }
+.media h2 {
+    font-size: 30px;
+    color: #202020;
+}
 
- .teaser {
-     padding-top: 30px;
- }
+.media h3 {
+    font-weight: 800;
+    color: #404040;
+}
 
- .interviews .ipad {
+ /*============================ EMBEDDED =================*/
+.embedded { 
+    background-color: rgb(60, 60, 60);
+}
+
+
+/*============================= PRESS INTERVIEWS ==========*/
+ .oval,
+ .teaser,
+ .interviews .ipad { 
      padding-top: 30px;
  }
 
  .ipad img {
-     width: 300px;
+     width: 275px;
  }
 
  .interviews h3 {
      padding-bottom: 30px;
  }
 
+.interviews .col-sm a {
+    text-decoration: none;
+    color: #000
+}
 
- .interviews {
+.interviews {
      background-color: #959595;
      color: #000;
      text-decoration: none;
 }
 
-.interviews h3 a {
-     text-decoration: none;
-}
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+ .teaser {
+     font-style: italic;
+ }
+
+/*==========================================================================    BUTTONS ==============================*/
+
+<p><a class="btn btn-small btn-light specyfikacja dla hovera --wihite" href="">Read more</a></p>
 
 
 /*==========================================================================    FUTURE DIVISION ======================*/
