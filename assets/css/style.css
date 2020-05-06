@@ -435,9 +435,18 @@ body {
     color: #404040;
 }
 
+.medias {
+    padding-top: 0;
+    margin-top: 0;
+}
+
  /*============================ EMBEDDED =================*/
 .embedded { 
     background-color: rgb(160, 15, 15);
+}
+
+.yt-link { 
+    padding: 15px 0;
 }
 
 
@@ -461,6 +470,9 @@ body {
 }
 
 .interviews {
+    background-color: blueviolet;
+}
+.interview {
     background-color: #999999;
 }
 
@@ -476,27 +488,11 @@ body {
     padding-bottom: 15px;
 }
 
-.interview-footer {
+.interview-footer { /*======================== temporary >>>>>>>>>>>>>> <<<<<<<<<<<<<<<< for anchor bottom======*/
     background-color: yellow;
     list-style-type: none;
-    text-align: center;
-    margin: 0;
     padding: 0;
-    position: absolute;
-    bottom: 15px;
-
-      /* position: absolute;
-      align-items: center
-      bottom: 15px;
-      left: inherit; */
 }
-
-
-.interview ul {
-    align-content: center;
-}
-
-
 
   
 
