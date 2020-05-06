@@ -442,17 +442,17 @@ body {
 
 
 /*============================= PRESS INTERVIEWS ==========*/
- .oval,
- .teaser,
- .interviews .ipad { 
+.oval,
+.teaser,
+.interviews .ipad { 
      padding-top: 30px;
  }
 
- .ipad img {
+.ipad img {
      width: 200px;
  }
 
- .interviews h3 {
+.interviews h3 {
      padding-bottom: 30px;
  }
 
@@ -461,26 +461,44 @@ body {
 }
 
 .interviews {
-     background-color: #999999;
+    background-color: #999999;
 }
 
 .interview-two {
     background-color: #909090;
 }
 
- .teaser {
-     font-style: italic;
+.teaser {
+    font-style: italic;
  }
 
-  .interview {
-      padding-bottom: 15px;
-  }
-  .interview-footer {
-      position: absolute;
-      text-align: center
+.interview {
+    padding-bottom: 15px;
+}
+
+.interview-footer {
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 15px;
+
+      /* position: absolute;
+      align-items: center
       bottom: 15px;
-      left: auto;
-  }
+      left: inherit; */
+}
+
+
+.interview ul {
+    align-content: center;
+}
+
+
+
+  
 
 /*==========================================================================    BUTTONS ==============================*/
 
