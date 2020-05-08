@@ -38,11 +38,6 @@ body {
      background-color: #606060;
 }
 
-.quotes { /*================================>>>>>>>>>,<<<<<<>>>>>><<<<<<<>>>>>>><<< TEMPORARY STYLING */
-    background: navy;
-    color: chocolate;
-    padding-top: 33px;
-}
 
 
 /*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
@@ -176,7 +171,7 @@ body {
 }
 
 .activated {
-    background-color: rgb(163, 66, 10); /*===================== mad color just temporary */
+    background-color: rgb(128, 2, 2); /*===================== ACTIVE MENU BUTTON COLOR */
 } 
 
 
@@ -444,13 +439,13 @@ body {
  /*============================ EMBEDDED =================*/
 
 .embedded { 
-    background-color: rgb(160, 15, 15);
+    background-color: rgb(128, 2, 2);
     color: antiquewhite;
 }
 
 .yt-link { 
-    padding: 15px 0;
-    background-color:rgb(180, 17, 17);
+    padding: 0;
+    background-color:#606060;
 }
 
 
@@ -461,12 +456,14 @@ body {
 
 .yt-intro {
     text-align: center;
-    background-color: rgb(180, 17, 17);
+    background-color: #606060;
 }
 
 #videoby {
     padding: 15px 30px 15px 0;
     text-align: right;
+    font-weight: 300;
+
 }
 
 
@@ -491,7 +488,7 @@ body {
 }
 
 .interviews {
-    background-color: #202020;
+    background-color: rgb(128, 2, 2);
 }
 .interview {
     background-color: #999999;
@@ -509,7 +506,7 @@ body {
     padding-bottom: 15px;
 }
 
-.interview-footer { /*======================== temporary >>>>>>>>>>>>>> <<<<<<<<<<<<<<<< for anchor bottom======*/
+.interview-footer { /*======================== temporary >>>>>>>>>>>>>> <<<<<<<<<<<<<<<< to mark anchor bottom in future ======*/
     background-color: yellow;
     list-style-type: none;
     padding: 0;
@@ -517,14 +514,18 @@ body {
 
   
 
-/*==========================================================================    BUTTONS ==============================*/
+/*==========================================================================    BUTTONS ===================================*/
 
 <p><a class="btn btn-small btn-light specyfikacja dla hovera --wihite" href="">Read more</a></p>
 
 
-/*==========================================================================    FUTURE DIVISION ======================*/
+/*==========================================================================    ABOUT ======================================*/
 
-
+.quotes { /*================================>>>>>>>>>,<<<<<<>>>>>><<<<<<<>>>>>>><<< TEMPORARY STYLING */
+    background: navy;
+    color: chocolate;
+    padding-top: 33px;
+}
 
 
 
@@ -553,3 +554,4 @@ section {
     text-align: center;
     margin-top: 250px;
 }
+
