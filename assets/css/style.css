@@ -421,7 +421,6 @@ body {
 /*==========================================================================    MEDIA ======================*/
 
 .medias h2 {
-    font-size: 300%;
     color: #DCDCDC;
     padding: 15px 0;
     font-family: "Racing Sans One", sans-serif;
@@ -497,6 +496,7 @@ body {
 
 .interviews {
     background-color: rgb(128, 2, 2);
+    padding-top: 0;
 }
 .interview {
     background-color: #999999;
@@ -530,15 +530,21 @@ body {
 /*==========================================================================    ABOUT ======================================*/
 
 .about {
-    background-color: rgb(128, 2, 2);
+    background-color: #202020;
     margin-top: 0;
-    /* padding: 30px; */
+    padding: 0;
 }
+
 
 .master-title {
     color: antiquewhite;
     font-family: "Racing Sans One", sans-serif;
     padding: 15px 0;
+    background-color: rgb(128, 2, 2);
+}
+
+.jumbo-about-container {
+    background-color: #202020;
 }
 
 
@@ -548,14 +554,14 @@ body {
     background-color: #DCDCDC;
 }
 
-.media img {
+.rounded-circle {
     height: 100px;
     width: 100px;
 }
 
-.quote-right {
-    text-align: right;
-}
+/* .reviews-content {
+    text-align: left;
+} */
 
 
 
