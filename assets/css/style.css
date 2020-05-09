@@ -514,7 +514,7 @@ body {
     padding-bottom: 15px;
 }
 
-.interview-footer { /*======================== temporary >>>>>>>>>>>>>> <<<<<<<<<<<<<<<< to mark anchor bottom in future ======*/
+.interview-footer { /*======================== temporary color / solution >>>>>>>>>>>>>> <<<<<<<<<<<<<<<< to mark anchor bottom in future ======*/
     background-color: yellow;
     list-style-type: none;
     padding: 0;
@@ -535,7 +535,16 @@ body {
 /*=============================    REVIEWS ===========================*/
 
 #reviews {
-    background-color: yellow;
+    background-color: #DCDCDC;
+}
+
+.media img {
+    height: 100px;
+    width: 100px;
+}
+
+.quote-right {
+    text-align: right;
 }
 
 
