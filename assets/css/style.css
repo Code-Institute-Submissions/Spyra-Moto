@@ -547,8 +547,15 @@ body {
     background-color: #202020;
 }
 
+.about-fourpluseight {
+    color: antiquewhite;
+}
 
 /*=============================    REVIEWS ===========================*/
+
+.col-right {
+    color: #404040;
+}
 
 #reviews {
     background-color: #DCDCDC;
