@@ -10,9 +10,23 @@ It will be a debut website as they ran only social media accounts until now but 
 <br>
 
 ---
+## TO DO
+
+* APPLY
+    * fix Interviews footer using cards BS
+
+* CHECK
+    * Caps lock style on all subtitles all pages
+    * Active Navigation Titles background
+    * Background color on particular page corresponding with adequate menu button color
+    * If everything what needed to be hide at any stage is styled for it (eg. d-md-none d-lg-block)
+
 
 ## Contents:
 
+* TO DO
+    *  
+    * warning style bckgrnd for warning disclaimer
 * UX (User Experience)
     * Project Goals
     * Business Goals
