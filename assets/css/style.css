@@ -529,7 +529,17 @@ body {
 
 /*==========================================================================    ABOUT ======================================*/
 
+.about {
+    background-color: rgb(128, 2, 2);
+    margin-top: 0;
+    /* padding: 30px; */
+}
 
+.master-title {
+    color: antiquewhite;
+    font-family: "Racing Sans One", sans-serif;
+    padding: 15px 0;
+}
 
 
 /*=============================    REVIEWS ===========================*/
