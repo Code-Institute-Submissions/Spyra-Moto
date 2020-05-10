@@ -574,8 +574,12 @@ body {
     background-color: #DCDCDC;
 }
 
-.fa-ebay {
+.card .fa-ebay {
     font-size: 300%;
+}
+
+.card .fa-instagram-square {
+    font-size: 150%;
 }
 
 
