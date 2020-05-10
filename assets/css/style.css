@@ -578,10 +578,14 @@ body {
     font-size: 300%;
 }
 
-.card .fa-instagram-square {
+.card .fa-instagram-square,
+.card .fa-facebook-square {
     font-size: 150%;
 }
 
+#reviews-disclaimer {
+    padding: 15px 0;
+}
 
 
 
