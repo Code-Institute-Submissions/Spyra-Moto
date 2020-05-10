@@ -551,6 +551,19 @@ body {
     color: antiquewhite;
 }
 
+.about-fourpluseight h2 {
+    background-color: rgb(128, 2, 2);
+    font-family: "Racing Sans One", sans-serif;
+}
+
+.about-title {
+    background-color: rgb(128, 2, 2);
+    font-family: "Racing Sans One", sans-serif;
+    color: antiquewhite;
+    padding: 20px 0;
+    margin: 0;
+}
+
 /*=============================    REVIEWS ===========================*/
 
 .col-right {
