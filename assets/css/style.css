@@ -564,13 +564,30 @@ body {
     font-family: "Racing Sans One", sans-serif;
     color: antiquewhite;
     padding: 20px 0;
-    margin: 0;
+    margin-left: -15px;
+    margin-right: -15px;
 }
+
+/*=============================    COL LEFT ===========================*/
+
+.col-left h3 {
+    padding: 15px 0;
+}
+
+
+.world-map .card-body,
+.world-map .card-footer {
+    background-color: #202020;
+    color: antiquewhite;
+}
+
 
 /*=============================    REVIEWS ===========================*/
 
 .col-right {
     color: #404040;
+    margin: 0;
+    padding: 0;
 }
 
 #reviews {
@@ -593,6 +610,16 @@ body {
 .review .rounded-circle {
     padding-top: 15px;
 }
+
+.review {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.review .card-body {
+    padding: 15px 5px;
+}
+
 
 
 
