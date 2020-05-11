@@ -525,7 +525,6 @@ body {
 
 /*==========================================================================    BUTTONS ===================================*/
 
-/* <p><a class="btn btn-small btn-light specyfikacja dla hovera --wihite" href="">Read more</a></p> */
 
 .button-readinterview {
     font-weight: 800;
@@ -544,7 +543,7 @@ body {
 
 .about-section {
     background-color: #202020;
-    margin-top: 0;
+    margin: 0;
     padding: 0;
 }
 
@@ -557,11 +556,6 @@ body {
     width: 100%;
 }
 
-.jumbo-about-container {
-    background-color: #202020;
-    margin-left: 0;
-    margin-right: 0;
-}
 
 .about-fourpluseight {
     color: antiquewhite;
@@ -577,8 +571,7 @@ body {
     font-family: "Racing Sans One", sans-serif;
     color: antiquewhite;
     padding: 20px 0;
-    /* margin-left: -15px;
-    margin-right: -15px; */
+    margin: 0;
 }
 
 /*=============================    ABOUT JUMBOTRON ===========================*/
@@ -592,6 +585,10 @@ body {
 }
 
 /*=============================    COL LEFT ===========================*/
+.col-left {
+    margin: 0;
+    padding: 0;
+}
 
 .col-left p {
     padding-left: 15px;
@@ -619,8 +616,9 @@ body {
     padding: 0;
 }
 
-#reviews {
+.reviews {
     background-color: #DCDCDC;
+    padding-right: 0;
 }
 
 .card .fa-ebay {
@@ -632,7 +630,7 @@ body {
     font-size: 150%;
 }
 
-#reviews-disclaimer {
+.reviews-disclaimer {
     padding: 15px 0;
 }
 
