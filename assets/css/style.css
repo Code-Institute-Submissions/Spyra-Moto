@@ -541,10 +541,13 @@ body {
     font-family: "Racing Sans One", sans-serif;
     padding: 15px 0;
     background-color: rgb(128, 2, 2);
+    width: 100%;
 }
 
 .jumbo-about-container {
     background-color: #202020;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .about-fourpluseight {
