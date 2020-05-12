@@ -541,7 +541,38 @@ body {
 
 /*==========================================================================    ABOUT ======================================*/
 
+.about-section {
+    background-color: #202020;
+    margin: 0;
+    padding: 0;
+}
 
+
+.master-title {
+    color: antiquewhite;
+    font-family: "Racing Sans One", sans-serif;
+    padding: 15px 0;
+    background-color: rgb(128, 2, 2);
+    width: 100%;
+}
+
+
+.about-fourpluseight {
+    color: antiquewhite;
+}
+
+.about-fourpluseight h2 {
+    background-color: rgb(128, 2, 2);
+    font-family: "Racing Sans One", sans-serif;
+}
+
+/* .about-title {
+    background-color: rgb(128, 2, 2);
+    font-family: "Racing Sans One", sans-serif;
+    color: antiquewhite;
+    padding: 20px 0;
+    margin: 0;
+} */
 
 /*=============================    ABOUT JUMBOTRON ===========================*/
 
@@ -554,11 +585,41 @@ body {
 }
 
 /*=============================    COL LEFT ===========================*/
+.col-left {
+    margin: 0;
+    padding: 0;
+}
+
+.col-left p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-left h3 {
+    padding: 15px 0;
+}
 
 
+.world-map .card-body,
+.world-map .card-footer {
+    background-color: #202020;
+    color: antiquewhite;
+    border-color: #202020;
+}
 
-/*=============================    COL RIGHT ===========================*/
 
+/*=============================    REVIEWS ===========================*/
+
+.col-right {
+    color: #404040;
+    margin: 0;
+    padding: 0;
+}
+
+.reviews {
+    background-color: #DCDCDC;
+    padding-right: 0;
+}
 
 .card .fa-ebay {
     font-size: 300%;
@@ -569,7 +630,22 @@ body {
     font-size: 150%;
 }
 
+.reviews-disclaimer {
+    padding: 15px 0;
+}
 
+.review .rounded-circle {
+    padding-top: 15px;
+}
+
+.review {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.review .card-body {
+    padding: 15px 5px;
+}
 
 .card {
     border: 0;
@@ -582,7 +658,7 @@ body {
 
 /*==========================================================================    TO ADD LATER ============================*/
 
-@media screen and (max-width: 320px) and (min-width: 1440px) { /* for map of customers feature in future */
+/* @media screen and (max-width: 320px) and (min-width: 1440px) { 
   div.map {
     font-size: px;
     font-weight: ;
@@ -590,7 +666,7 @@ body {
     border: 8px solid black;
     background: rgb(122, 122, 122);
   }
-}
+} */
 
 /* .review .rounded-circle {
     max-width: 150px;
