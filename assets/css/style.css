@@ -78,7 +78,7 @@ body {
 
 #bg-pipeslogo {
     padding-right: 0;
-    scroll-padding-left: o;
+    scroll-padding-left: 0;
 }
 
 #bg-pipeslogo img {
@@ -223,7 +223,7 @@ body {
 
 .footcol-follow i {
     font-size: 200%;
-    padding: 0 20 20;
+    padding: 0 20px 20px;
 }
 
 .follow-links {
