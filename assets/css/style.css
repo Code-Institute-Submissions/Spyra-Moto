@@ -541,23 +541,71 @@ body {
 
 /*==========================================================================    ABOUT ======================================*/
 
+.abouts h2 {
+    color: #DCDCDC;
+    padding: 15px 0;
+    font-family: "Racing Sans One", sans-serif;
+}
+
+.abouts h3 {
+    font-weight: 300;
+}
+
+.abouts {
+    padding-top: 0;
+    margin-top: 0;
+}
 
 
-/*=============================    ABOUT JUMBOTRON ===========================*/
+/*=============================    ABOUT JUMBOTRON / ANIMATION ===========================*/
 
-.jumbotron .sparksmaster {
+/* .jumbotron .sparksmaster {
     background-image: url("assets/images/SpyraMotoCEO.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-color: transparent;
+} */
+
+/*=============================    TUNING ===========================*/
+
+ 
+
+.exhaust-tuning h3 {
+     padding-bottom: 15px;
+     color: #404040; 
+     margin-bottom: 0;
+ }
+
+
+
+.exhaust-tuning {
+    background-color: rgb(128, 2, 2);
+    padding-top: 0;
 }
 
-/*=============================    COL LEFT ===========================*/
+.tuning {
+    background-color: #999999;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+
+.now {
+    background-color: #909090;
+}
+
+.tuning-icon {
+    font-size: 300%;
+    margin-bottom: 15px;
+    color: antiquewhite;
+}
 
 
 
-/*=============================    COL RIGHT ===========================*/
+
+
+
+/*=============================    EDESKEEEEE ===========================*/
 
 
 .card .fa-ebay {
