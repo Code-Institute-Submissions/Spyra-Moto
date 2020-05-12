@@ -575,6 +575,7 @@ body {
      padding-bottom: 15px;
      color: #404040; 
      margin-bottom: 0;
+     font-family: "Racing Sans One", sans-serif;
  }
 
 
@@ -601,6 +602,22 @@ body {
 }
 
 
+/*=============================    REVIEWS ===========================*/
+
+ 
+
+
+.reviews {
+    background-color: rgb(128, 2, 2);
+    padding-top: 0;
+    margin-top: 15px;
+}
+
+.review {
+    background-color: #999999;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
 
 
 
