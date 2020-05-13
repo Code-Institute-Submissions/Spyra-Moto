@@ -626,9 +626,11 @@ body {
  }
 
 .review {
-    background-color: #999999;
+    /* background-color: ##edeae9; */
     padding-bottom: 15px;
     padding-top: 30px;
+    border: 0;
+    /* background-color: #f5f5f5; */
 }
 
 .review .rounded-circle {
@@ -636,8 +638,12 @@ body {
 }
 
 
-.review span {
-    color: #f10d0d;
+.review .text-muted {
+    color: #202020 !important;
+}
+
+.review .card-body {
+    color: #202020;
 }
 
 .card .fa-ebay {
@@ -650,9 +656,9 @@ body {
 }
 
 
-.card {
+.reviews-cards .card {
     border: 0;
-    background-color: #f5f5f5;
+    background-color: #999999;
 }
 
 .reviews-disclaimer {
