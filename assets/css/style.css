@@ -711,6 +711,28 @@ body {
     padding-top: 0;
 }
 
+/*==========================================================================    RANGE PAGE  ============================*/
+
+.range {
+    margin: 0;
+    padding: 0;
+    background-color: #404040;
+    color: antiquewhite;
+}
+
+.range-title {
+    background-color: rgb(128, 2, 2);
+    font-family: "Racing Sans One", sans-serif;
+    margin-bottom: 0;
+    padding: 15px;
+    text-transform: uppercase;
+}
+
+.appetizer {
+
+}
+
+
 
 
 /*==========================================================================    TO ADD LATER ============================*/
