@@ -602,6 +602,7 @@ body {
 }
 
 
+
 /*=============================    REVIEWS ===========================*/
 
  
@@ -619,10 +620,10 @@ body {
     padding-top: 30px;
 }
 
+.review .rounded-circle {
+    max-width: 150px;
+}
 
-
-
-/*=============================    EDESKEEEEE ===========================*/
 
 
 .card .fa-ebay {
@@ -635,19 +636,21 @@ body {
 }
 
 
-
 .card {
     border: 0;
     background-color: #f5f5f5;
-    /* color: antiquewhite; */
 }
+
+
+/*=============================    MAP - Rollin ===========================*/
+
 
 
 
 
 /*==========================================================================    TO ADD LATER ============================*/
 
-@media screen and (max-width: 320px) and (min-width: 1440px) { /* for map of customers feature in future */
+/* @media screen and (max-width: 320px) and (min-width: 1440px) { 
   div.map {
     font-size: px;
     font-weight: ;
@@ -655,11 +658,9 @@ body {
     border: 8px solid black;
     background: rgb(122, 122, 122);
   }
-}
-
-/* .review .rounded-circle {
-    max-width: 150px;
 } */
+
+
 
 
 /*==========================================================================    TEMPORARY ============================*/
