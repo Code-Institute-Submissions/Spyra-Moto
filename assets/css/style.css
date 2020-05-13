@@ -717,7 +717,8 @@ body {
     margin: 0;
     padding: 0;
     background-color: #404040;
-    color: antiquewhite;
+    color: black; /* TEMPORARILY FOR STYLING CARDS */
+    border: solid 3px black;
 }
 
 .range-title {
@@ -728,9 +729,15 @@ body {
     text-transform: uppercase;
 }
 
-.appetizer {
-
+.range-intro {
+    background-color: #404040;
+    color: antiquewhite;
 }
+
+/* .appetizer {
+    background-color: #404040;
+    color: antiquewhite;
+} */
 
 
 
