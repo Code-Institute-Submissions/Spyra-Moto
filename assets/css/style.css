@@ -619,7 +619,6 @@ body {
 .reviews {
     background-color: rgb(128, 2, 2);
     padding-top: 0;
-    margin-top: 15px;
 }
 
 .reviews h2 {
@@ -637,6 +636,9 @@ body {
 }
 
 
+.review span {
+    color: #f10d0d;
+}
 
 .card .fa-ebay {
     font-size: 300%;
@@ -671,11 +673,29 @@ body {
 
 /*=============================    MAP - Rollin ===========================*/
 
+/* .reviews {
+    background-color: rgb(128, 2, 2);
+    padding-top: 0;
+    margin-top: 15px;
+} */
+
 .rollin-subtitle {
     padding: 0 15px;
     background-color: #202020;
     color: antiquewhite;
 }
+
+.rollin-subtitle h3,
+.rollin-subtitle p 
+{
+    padding: 15px;
+    margin-bottom: 0;
+}
+
+.rollin-subtitle p {
+    padding-top: 0;
+}
+
 .rollin-round h2 {
     padding: 15px 0;
 }
@@ -684,6 +704,7 @@ body {
     text-align: center;
     background-color: #202020;
     color: antiquewhite;
+    padding-bottom: 15px;
 }
 
 
