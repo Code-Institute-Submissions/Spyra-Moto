@@ -556,6 +556,11 @@ body {
     margin-top: 0;
 }
 
+.about-title {
+    background-color: rgb(128, 2, 2);
+    /* padding-top: 15px; */
+}
+
 
 /*=============================    ABOUT JUMBOTRON / ANIMATION ===========================*/
 
@@ -578,6 +583,9 @@ body {
      font-family: "Racing Sans One", sans-serif;
  }
 
+.exhaust-tuning h2 {
+     margin-bottom: 0;
+ }
 
 
 .exhaust-tuning {
@@ -614,6 +622,10 @@ body {
     margin-top: 15px;
 }
 
+.reviews h2 {
+     margin-bottom: 0;
+ }
+
 .review {
     background-color: #999999;
     padding-bottom: 15px;
@@ -641,10 +653,38 @@ body {
     background-color: #f5f5f5;
 }
 
+.reviews-disclaimer {
+    background-color: rgb(128, 2, 2);
+    color: antiquewhite;
+}
+
+.reviews-disclaimer h5{
+    margin-bottom: 0;
+}
+
+.reviews-disclaimer-text {
+    background-color: #202020;
+    color: rgb(255, 193, 22);
+    margin-bottom: 0;
+    padding: 15px;
+}
 
 /*=============================    MAP - Rollin ===========================*/
 
+.rollin-subtitle {
+    padding: 0 15px;
+    background-color: #202020;
+    color: antiquewhite;
+}
+.rollin-round h2 {
+    padding: 15px 0;
+}
 
+.worldmap {
+    text-align: center;
+    background-color: #202020;
+    color: antiquewhite;
+}
 
 
 
