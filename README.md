@@ -193,7 +193,9 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Buy now
+- Filter: display all products for same bike model
+- Embedded Google Maps with Buyers town location (respect to GDPR)
 
 ## Technologies Used
 
@@ -203,6 +205,10 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - The project uses **JQuery** to simplify DOM manipulation.
 
 <!-- Popper.js and jQuerry - both as part of Boootstrap -->
+
+Photoshop?
+Bootstrap
+Font Awesome
 
 
 ## Testing
@@ -242,10 +248,21 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
+- All original content written by developer, except:
+    - quoted reviews
+    - quoted press articles
+    
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Press Intervews quotation approved by sources:
+    - Blog
+    - Made In Swietokrzyskie
+    - Garage shed costam
 
 ### Media
 - The photos used in this site were obtained from ...
+    - Delivered by the owner
+    - From developer own library
+    - Thanks to courtesy of photographers/filmmakers: Wiktor Taszlow, Grzegorz Betkowski, Mateusz Iskra
 
 ### Acknowledgements
 
