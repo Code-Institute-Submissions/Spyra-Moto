@@ -608,8 +608,11 @@ body {
 
 .tuning-icon {
     font-size: 300%;
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
     color: antiquewhite;
+}
+.tuning-title {
+    padding-top: 15px;
 }
 
 
