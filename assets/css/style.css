@@ -664,6 +664,19 @@ body {
     background-color: #999999;
 }
 
+.smart-reader-msg {
+    color: #202020;
+    background-color: rgb(255, 193, 22);
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    padding: 30px 15px;
+}
+.smart-cheers {
+    margin-bottom: 0;
+}
+
+
 .reviews-disclaimer {
     background-color: rgb(128, 2, 2);
     color: antiquewhite;
