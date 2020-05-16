@@ -717,12 +717,11 @@ body {
 }
 
 .range-row .exh-name {
-    font-weight: 600;
     margin-bottom: 30px;
 }
 
 .single-exh {
-    border: solid #bebebe 1px;  /*======================= just kidding */
+    border: solid #a0a0a0 1px;  /*======================= just kidding */
 }
 
 .exh-left-col {
@@ -736,6 +735,27 @@ body {
 .exh-right-col {
     background-color: #f0f0f0;
 }
+
+.range-divider {
+    margin: 0;
+    padding: 15px;
+    width: 250px;
+    height: 5px;
+    border: 0;
+    background-color: #404040;
+}
+
+.badge-warning {
+    background-color: #ff6600;
+}
+.badge-danger {
+    background-color: #f30b16;
+}
+.badge-primary {
+    background-color: #009ADA;
+}
+
+
 
 /* .appetizer {
     background-color: #404040;
@@ -829,8 +849,9 @@ section {
 }
 
 @media screen and (min-width: 769px) { 
-  /* FOR certain displays: increase Title of product */
-    .range-row .exh-name {
+  /* FOR certain displays: increase Title of product and The Armed Legion subtitles*/
+    .range-row .exh-name,
+    .appetizer .exh-name {
         font-size: 1.5rem
     }
 }
