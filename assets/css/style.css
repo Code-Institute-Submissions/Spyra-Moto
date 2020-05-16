@@ -773,6 +773,16 @@ body {
     color: antiquewhite;
 }
 
+.range-row .exh-name {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.single-exh {
+    background-color: pink;
+    border: solid #147723 4px;
+}
+
 /* .appetizer {
     background-color: #404040;
     color: antiquewhite;
