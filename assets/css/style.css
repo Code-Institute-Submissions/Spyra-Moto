@@ -306,63 +306,6 @@ body {
 
 
 
-
-
-/*===================================================================================   @ MEDIA QUERIES ========================*/
-
-@media(max-width: 1024px) {
-    .menu-button h5 {
-        font-weight: 500;
-    }
-    .menu-button i {
-        font-size: 200%;
-        padding-top: 30px;
-    }
-}
-
-
-@media screen and (max-width: 320px) {
-  div.navbar {
-        display: none;
-  }
-}
-
-
-@media screen and (min-width: 576px) and (max-width: 870px) { 
-    /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
-
-  .footcol-contact i {
-    display: none;
-  }
-
-  .footcol-faq i {
-    display: none;
-  }
-
-  .footcol-faq p {
-    padding-left: 20px;
-  }
-}
-
-
-@media screen and (min-width: 871px) and (max-width: 950px) { 
-  /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
-  .footcol-contact p {
-    padding-left: 20px;
-  }
-
-  .footcol-faq p {
-    padding-left: 20px;
-  }
-}
-
-@media screen and (max-width: 575px) { 
-    /* HIDES 4TH AND ALL NEXT REVIEWS FOR SMARTPHONES */
-    .hide-for-phones {
-        display: none;
-    }
-}
-
 /*==========================================================================    CONTAINERS  ======================*/
 
 .dream-container {
@@ -737,7 +680,7 @@ body {
     padding-top: 0;
 }
 
-/*==========================================================================    RANGE PAGE  ============================*/
+/*===========================================================================================    RANGE PAGE  ============================*/
 
 .range {
     margin: 0;
@@ -779,8 +722,19 @@ body {
 }
 
 .single-exh {
-    background-color: pink;
-    border: solid #147723 4px;
+    border: solid #bebebe 1px;  /*======================= just kidding */
+}
+
+.exh-left-col {
+    background-color: #c0c0c0;
+}
+
+.exh-mid-col {
+    background-color: #dcdcdc;
+}
+
+.exh-right-col {
+    background-color: #f0f0f0;
 }
 
 /* .appetizer {
@@ -816,4 +770,67 @@ body {
 
 section {
     text-align: center;
+}
+
+
+/*===================================================================================   @ MEDIA QUERIES ========================*/
+
+@media(max-width: 1024px) {
+    .menu-button h5 {
+        font-weight: 500;
+    }
+    .menu-button i {
+        font-size: 200%;
+        padding-top: 30px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+  div.navbar {
+        display: none;
+  }
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 870px) { 
+    /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
+
+  .footcol-contact i {
+    display: none;
+  }
+
+  .footcol-faq i {
+    display: none;
+  }
+
+  .footcol-faq p {
+    padding-left: 20px;
+  }
+}
+
+
+@media screen and (min-width: 871px) and (max-width: 950px) { 
+  /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
+  .footcol-contact p {
+    padding-left: 20px;
+  }
+
+  .footcol-faq p {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 575px) { 
+    /* HIDES 4TH AND ALL NEXT REVIEWS FOR SMARTPHONES */
+    .hide-for-phones {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 769px) { 
+  /* FOR certain displays: increase Title of product */
+    .range-row .exh-name {
+        font-size: 1.5rem
+    }
 }
