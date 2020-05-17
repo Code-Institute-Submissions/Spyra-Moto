@@ -788,6 +788,44 @@ body {
 }
 
 
+.small-print {
+    background-color: rgb(128, 2, 2);
+    color: antiquewhite;
+}
+
+.small-print-text {
+    background-color: #000;
+    color: rgb(255, 193, 22);
+    margin-bottom: 0;
+    padding: 15px;
+}
+
+.small-print h5{
+    margin-bottom: 0;
+}
+
+/*=============================== DROP ME A LINE ============================*/
+
+.drop-line {
+    padding: 0;
+    background-color: #999999;
+    color: #202020;
+    text-align: center;
+}
+
+.drop-line label {
+    padding-top: 30px;
+}
+
+.contact-form {
+    background-color: #d3d3d3;
+}
+
+.submit-button {
+    padding: 15px 0;
+    font-weight: 600;
+}
+
 
 /*=============================== JUMBO LANDING ============================*/
 
