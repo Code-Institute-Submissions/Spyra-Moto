@@ -866,6 +866,14 @@ body {
     font-size: 300%;
 }
 
+.jumbotron {
+    background-color: transparent;
+}
+
+.dream .lead {
+    color: #909090;
+}
+
 
 
 
