@@ -717,8 +717,9 @@ body {
 .landing {
     margin: 0;
     padding: 0;
-    background-color: #404040;
-    color: #202020; 
+    background-color: #000;
+    color: #202020;
+    text-align: center;
 }
 
 .landing-title {
@@ -737,7 +738,7 @@ body {
 
 
 .landing-subtitle {
-    background-color: #404040;
+    background-color: #000;
     color: antiquewhite;
     margin-bottom: 0;
     padding: 15px;
@@ -745,6 +746,10 @@ body {
 
 .landing-subtitle h3 {
     font-weight: 300;
+}
+
+.under-pic {
+    margin-bottom: 30px;
 }
 
 .free-deli,
@@ -756,14 +761,12 @@ body {
 .free-deli img {
     border-top: solid 5px;
     border-right: solid 2.5px;
-    border-left: solid 5px;
     border-bottom: solid 5px;
     border-color: #c8c8c8;
 }
 
 .five-steps img {
     border-top: solid 5px;
-    border-right: solid 5px;
     border-left: solid 2.5px;
     border-bottom: solid 5px;
     border-color: #c8c8c8;
@@ -785,6 +788,8 @@ body {
 }
 
 
+
+/*=============================== JUMBO LANDING ============================*/
 
 .dream-container {
     height: 100vh;
