@@ -159,7 +159,7 @@ body {
 
 
 .hvr-shutter-out-vertical:before {
-    background: rgb(153, 107, 22);
+    background: rgb(141, 0, 0);
 }
 
 .hvr-shutter-out-vertical {
@@ -826,6 +826,9 @@ body {
     font-weight: 600;
 }
 
+.dropline-intro {
+    font-weight: 300;
+}
 
 /*=============================== JUMBO LANDING ============================*/
 
