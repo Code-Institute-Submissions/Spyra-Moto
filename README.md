@@ -146,9 +146,13 @@ that led to creating cool picture in terms of overall marketing and public relat
 
 ### User goals
 
-The main expected user is a broad field but expected to fall into one of the below criteria
+The main expected user falls into one of the below criteria:
 
-1. A casual user
+1. Mtorcycle owner
+Motorcycle enthusiast
+biker family / friends
+
+2. Someone who seen one of the page photo content in image searching machine by looking for custom-built botorbike
 2. Someone wanting a quiz time waster with little to invest
 3. Quiz enthusiast
 
@@ -338,6 +342,12 @@ Credits for readme.md:
 Code Institute  
 Richard Wells 
 https://stackoverflow.com/questions/4823468/comments-in-markdown
+
+Credits for project:
+- Matt Rudge
+- Jonathan Munz
+- Kasia Bogucka
+
 
 
 
