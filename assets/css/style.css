@@ -760,14 +760,14 @@ body {
 
 .free-deli img {
     border-top: solid 5px;
-    border-right: solid 2.5px;
+    border-right: solid 1px;
     border-bottom: solid 5px;
     border-color: #c8c8c8;
 }
 
 .five-steps img {
     border-top: solid 5px;
-    border-left: solid 2.5px;
+    border-left: solid 1px;
     border-bottom: solid 5px;
     border-color: #c8c8c8;
 }
@@ -828,6 +828,12 @@ body {
 
 .dropline-intro {
     font-weight: 300;
+    text-align: left;
+}
+
+.yello {
+  border-left: 6px solid rgb(255, 193, 22);
+  background-color: #f8f8f8;
 }
 
 /*=============================== JUMBO LANDING ============================*/
@@ -889,11 +895,6 @@ body {
 
 /*==========================================================================    TEMPORARY ============================*/
 
-#temporary-icons i {
-    color: chartreuse;
-    font-size: 600%;
-    margin-bottom: 30px;
-}
 
 section {
     text-align: center;
