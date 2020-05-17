@@ -753,16 +753,36 @@ body {
     border: 0;
 }
 
-
-.good-manners img {
-    border: solid #606060 5px;
+.free-deli img {
+    border-top: solid 5px;
+    border-right: solid 2.5px;
+    border-left: solid 5px;
+    border-bottom: solid 5px;
+    border-color: #c8c8c8;
 }
 
 .five-steps img {
-    border-left: 0;
+    border-top: solid 5px;
+    border-right: solid 5px;
+    border-left: solid 2.5px;
+    border-bottom: solid 5px;
+    border-color: #c8c8c8;
 }
 
 
+.five-steps {
+    background-color: #c0c0c0;
+}
+.free-deli {
+    background-color: #dcdcdc;
+}
+
+
+.five-steps li,
+.free-deli p {
+    text-align: left;
+    font-size: 1rem;
+}
 
 
 
