@@ -747,6 +747,24 @@ body {
     font-weight: 300;
 }
 
+.free-deli,
+.five-steps {
+    padding: 15px 0;
+    border: 0;
+}
+
+
+.good-manners img {
+    border: solid #606060 5px;
+}
+
+.five-steps img {
+    border-left: 0;
+}
+
+
+
+
 
 .dream-container {
     height: 100vh;
