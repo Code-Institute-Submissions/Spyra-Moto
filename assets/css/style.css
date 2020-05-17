@@ -40,10 +40,6 @@ body {
 
 
 
-/*==========================================================================    MARGINS, PADDINGS, TEXT ==============*/
-
-
-
 
 /*==========================================================================    HEADER ===============================*/
 
@@ -149,7 +145,7 @@ body {
 
 
 
-/*==========================================================================    HOVER ================================*/
+/*=============================================================================    HOVER ================================*/
 
 
 .menu-button h5:hover {
@@ -175,7 +171,7 @@ body {
 } 
 
 
-/*==========================================================================    FOOTER ===============================*/
+/*==========================================================================    FOOTER   ===============================*/
 
 
 .whole-footer {
@@ -305,49 +301,6 @@ body {
 
 
 
-
-/*==========================================================================    CONTAINERS  ======================*/
-
-.dream-container {
-    height: 100vh;
-    background: url("../images/cyclop.jpg") no-repeat bottom center fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-}
-
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0.65);
-}
-
-
-.dream-container h1 {
-    color: antiquewhite;
-    font-weight: 800;
-    text-align: center;
-}
-
-#intro-stopdreaming {
-    color: rgb(255, 193, 22);
-    margin-bottom: 150px;
-    text-align: center;
-    font-family: "Racing Sans One", sans-serif;
-    font-size: 300%;
-}
-
-
-
-
 /*==========================================================================    BLOCK DIVIDERS ======================*/
 
 .general-divider {
@@ -368,7 +321,7 @@ body {
 
 
 
-/*==========================================================================    MEDIA ======================*/
+/*==========================================================================    MEDIA PAGE  ======================*/
 
 .medias h2 {
     color: #DCDCDC;
@@ -473,7 +426,7 @@ body {
 
   
 
-/*==========================================================================    BUTTONS ===================================*/
+/*====================    BUTTONS ====================*/
 
 
 .button-readinterview {
@@ -489,7 +442,7 @@ body {
 }
 
 
-/*==========================================================================    ABOUT ======================================*/
+/*==========================================================================    ABOUT PAGE  ======================================*/
 
 .abouts h2 {
     color: #DCDCDC;
@@ -686,7 +639,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #404040;
-    color: black; /* TEMPORARILY FOR STYLING CARDS */
+    color: #202020; 
 }
 
 .range-title {
@@ -711,6 +664,10 @@ body {
     padding: 15px;
 }
 
+.range-subtitle h3 {
+    font-weight: 300;
+}
+
 .range-intro {
     background-color: #404040;
     color: antiquewhite;
@@ -721,20 +678,19 @@ body {
 }
 
 .single-exh {
-    border: solid #a0a0a0 1px;  /*======================= just kidding */
+    border: solid #a0a0a0 1px;  
 }
 
 .exh-left-col {
     background-color: #c0c0c0;
 }
-
 .exh-mid-col {
     background-color: #dcdcdc;
 }
-
 .exh-right-col {
     background-color: #f0f0f0;
 }
+
 
 .range-divider {
     margin: 0;
@@ -745,37 +701,96 @@ body {
     background-color: #404040;
 }
 
+
 .badge-warning {
-    background-color: #ff6600;
+    background-color: #ff6600; /* == OFFICIAL HARLEY ORANGE == */
 }
 .badge-danger {
-    background-color: #f30b16;
+    background-color: #f30b16; /* == OFFICIAL YAMAHA RED == */
 }
 .badge-primary {
-    background-color: #009ADA;
+    background-color: #009ADA; /* == OFFICIAL BEEMER BLUE == */
+}
+
+/*===========================================================================================  INDEX -  LANDING PAGE  ============================*/
+
+.landing {
+    margin: 0;
+    padding: 0;
+    background-color: #404040;
+    color: #202020; 
+}
+
+.landing-title {
+    background-color: rgb(128, 2, 2);
+    color: antiquewhite;
+    font-family: "Racing Sans One", sans-serif;
+    margin-bottom: 0;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+}
+
+.landing-title h2 {
+    margin: 0;
 }
 
 
-
-/* .appetizer {
+.landing-subtitle {
     background-color: #404040;
     color: antiquewhite;
-} */
+    margin-bottom: 0;
+    padding: 15px;
+}
+
+.landing-subtitle h3 {
+    font-weight: 300;
+}
+
+
+.dream-container {
+    height: 100vh;
+    background: url("../images/cyclop.jpg") no-repeat bottom center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.65);
+}
+
+
+.dream-container h1 {
+    color: antiquewhite;
+    font-weight: 800;
+    text-align: center;
+}
+
+#intro-stopdreaming {
+    color: rgb(255, 193, 22);
+    margin-bottom: 150px;
+    text-align: center;
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 300%;
+}
 
 
 
 
 /*==========================================================================    TO ADD LATER ============================*/
 
-/* @media screen and (max-width: 320px) and (min-width: 1440px) { 
-  div.map {
-    font-size: px;
-    font-weight: ;
-    padding: 30px;
-    border: 8px solid black;
-    background: rgb(122, 122, 122);
-  }
-} */
+/* ROUNDED CIRCLE ENLARGE FOR LARGE+ */
 
 
 
