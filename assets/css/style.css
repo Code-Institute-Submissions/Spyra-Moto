@@ -285,7 +285,7 @@ body {
 
 
 
-.footcol-faq { /*======================= FAQ =================*/
+.footcol-faq { /*======================= (former: FAQ) / BACK TO TOP BUTTON =================*/
     background-color: #606060;
 }
 
@@ -928,7 +928,7 @@ section {
 
 
 @media screen and (min-width: 576px) and (max-width: 870px) { 
-    /* FOR .md displays: remove icons from contact + same for FAQ + decrease left padding for FAQ  */
+    /* FOR .md displays: remove icons from contact + same for FAQ  */
 
   .footcol-contact i {
     display: none;
@@ -938,9 +938,6 @@ section {
     display: none;
   }
 
-  /* .footcol-faq p {
-    padding-left: 20px;
-  } */
 }
 
 
