@@ -289,6 +289,10 @@ body {
     background-color: #606060;
 }
 
+.footcol-faq p {
+    padding: 15px 0;
+}
+
 
 .footcol-faq i {
     vertical-align: bottom;
@@ -934,22 +938,22 @@ section {
     display: none;
   }
 
-  .footcol-faq p {
+  /* .footcol-faq p {
     padding-left: 20px;
-  }
+  } */
 }
 
 
 @media screen and (min-width: 871px) and (max-width: 950px) { 
-  /* FOR certain displays: decrease padding left for icons paragraph in contact + same for FAQ */
+  /* FOR certain displays: decrease padding left for icons paragraph in contact + remove for FAQ */
   .footcol-contact p {
     padding-left: 20px;
   }
 
-  .footcol-faq p {
-    padding-left: 20px;
-  }
+  
 }
+
+
 
 @media screen and (max-width: 575px) { 
     /* HIDES 4TH AND ALL NEXT REVIEWS FOR SMARTPHONES */
