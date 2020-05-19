@@ -289,14 +289,11 @@ body {
     background-color: #606060;
 }
 
-.footcol-faq h4 {
-    letter-spacing: 5px;
-}
 
 .footcol-faq i {
-    color: rgb(255, 193, 22);
-    font-weight: 700;
-    padding-left: 10px;
+    vertical-align: bottom;
+    padding: 0 15px 0 30px;
+    margin: 0;
 }
 
 
