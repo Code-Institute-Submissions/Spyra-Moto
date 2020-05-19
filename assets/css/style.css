@@ -591,7 +591,7 @@ body {
     color: antiquewhite;
 }
 
-.reviews-disclaimer h5{
+.reviews-disclaimer h5 {
     margin-bottom: 0;
 }
 
@@ -600,6 +600,11 @@ body {
     color: rgb(255, 193, 22);
     margin-bottom: 0;
     padding: 15px;
+    font-size: 75%;
+}
+
+.reviews-disclaimer-text p {
+    margin-bottom: 0;
 }
 
 /*=============================    MAP - Rollin ===========================*/
