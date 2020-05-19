@@ -1,6 +1,6 @@
 # SPYRAMOTO | CUSTOM EXHAUSTS
 <br>
-<img src="./assets/images/TEMPORARY_Responsive.png" alt="SPYRAMOTO responsive test" width="50%">
+<img src="./assets/images/respo.png" alt="SPYRAMOTO responsive test" width="50%">
 <br>
 <br>
 <br>
