@@ -13,13 +13,16 @@ It will be a debut website as they ran only social media accounts until now but 
 ## TO DO
 
 * APPLY
-    * fix Interviews footer using cards BS
+    * fix Product footer position using Bootstrap cards
+    * Based of project feedback 
+        * introduce Back to top button
+        * decrease Copyright disclaimer text size
+        * replace pictures that makes bad impression (exhaust parts wrapped in black foil that looked like coroner's place)
 
 * CHECK
     * Caps lock style on all subtitles all pages
-    * Active Navigation Titles background
-    * Background color on particular page corresponding with adequate menu button color
-    * If everything what needed to be hide at any stage is styled for it (eg. d-md-none d-lg-block)
+    * Active Navigation button same as Titles background
+    * If all links works correctly after deployment.
 
 
 ## Contents:
