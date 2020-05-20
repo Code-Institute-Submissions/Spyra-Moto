@@ -53,9 +53,6 @@ It will be a debut website as they ran only social media accounts until now but 
 * Acknowledgements
 
 
- <!-- HERE GOES MANDATORY CI TEMPLATE:  -->
-<br>
-<br>
 <br>
  
 
@@ -94,6 +91,19 @@ information demanded by customers and desired by owner.
     * Providing open-minded approach to external, unlisted models or requested extra shaped / custom-tailored projects.
 
 
+### User values
+* The user has access to the gallery, gets offers, sees range of products and has possibility to ask for price or any additional <br>
+questions through form or using contact details. Here highlighted WhatsApp feature informs that unwelcomed international <br>
+call/text costs can be avoided, handy especially to ease contact for overseas buyers (company has a global range of consumers).
+<br><br>
+Visitor can recognise credibility of company, an essential verification based on insight into company social media profiles. <br>
+That allows to assess owner’s timeline, check quality of followers, number of comments and likes. In times of scam websites <br>
+and fake sellers it is appreciated “tool” for customer. Meanwhile it works perfectly for the owner to attract visitor to become <br>
+a follower or further - earn a buyer.
+<br><br>
+Contact form delivers simple communication channel to ask whatever they like.
+<br><br>
+<br>
  
 
 ### Targeting
@@ -182,15 +192,48 @@ Research done at beggining of creatng this website delivered following goals:
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Manual
+
+* Common elements
+    * The header announce purpose of the website, mainly for positioning reasons (crucial content of Header 1), this element is hidden on smallest displays for sake of better landing page impression. Right below is main navigation that stays exactly same on all pages: Logo of company (with its initial “S” letter used for favicon) has black background and is linked to index page – same as Home button. Next buttons (“About”, “Range” and “Media”) ore getting slightly brighter shade of grey. Always one of them indicates at which page you’re at the moment. They are interactive laptop/PC screens when mouse hover over particular element – color change to a bit brother that active page button color. This reddish color is kept for all h2 section titles and makes good effect as first title on page looks like an active tab – descendant of active menu button. Yellow color of company logo is kept over all yellow accents on website.
+    * The footer is repeated on all pages to make it easy to learn for the visitor to get in touch (alternative ways to Contact form) and bright social media icons (color-coded with their linked platforms) calls to check out more information on the provided Social Media networks (long timeline, positive feedback and pictures that proves quality and aesthetics, finally – increase number of true followers) and spreads advertisement widely by this days version of “Word-of-mouth”.
+* The Home page <br>   
+begins with a jumbotron style hero image with a motorbike background introducing what the page is about. It's a short and to the point statement as well as CTA (call to action) button allowing the visitor and a potential client to immediately enquire about the exhaust for their bike. 
+<br>
+Below jumbotron there is a manual on how to order and how looks all procedure steps for customer between making decision and holding product in their hands, a walk through. This section also includes a promise of no hidden costs, as well as promise of free delivery within Europe.
+<br>
+As we scroll down, we see an invitation to getting in touch followed by convenient form. There is also a disclaimer below, in case there are special circumstances applying to a potential customer's bike. This is followed by the footer which repeats throughout the website.
+
+* The About page <br>
+Begins with a hero image introducing the CEO and Designer in one, the owner of the company. Just below there is a short three columned introduction to the person behind SpyraMoto:
+
+    * The Scratch <br>
+is about the Family Roots and where the love for motorcycles come from and ends with internal link in blue pill button that gives a user opportunity to check whole range of products.
+    * SpyraMoto describes how Wojtek started and what drives him and contains promise of Lifetime guarantee, a strong statement declaring quality and proactive company approach. 
+    * The Futures touches on the attention to detail and what is in store for Future days for SpyraMoto, this sends also a message that company is bursting, keeps development and is innovation-orientated.
+
+    As we scroll down, there is a map showing where some of past clients are coming from as well as the reviews section end up with Legal notice about copyrights and statement that owner holds documentation for these testimonials. 
+
+* Range page <br>
+    starts with triple message to encourage reader to take an action, convince him it’s deserved to beautify his bike. Right below starts the portfolio of SpyraMoto works (shorted to 6 of over 30 models just to show my concept of presentation), which essentially shows the quality of it.  Designed to have visually three different columns on tablets and bigger displays as well as keep dirrerent background for each product in responsive version on smartphones. <br>
+    As a prospect customer I can immediately check out some examples of Wojtek's work, in case I am not sure what I want or if I like their look.  As range covers three main brands: Harley-Davidson, BMW and Yamaha, every model has been marked with a brand-named button that corresponds with color code of particular brand, e.g. exact shade of red used by Yamaha. <br>
+    At smartphones it contains only first 3 products as a teaser with extra message encouraging user to visit more products on more comfortable displays such a tablets or computers.
+        * In future this section is going to be extended by: <br>
+            - clickable mini gallery of each product to show each model alone and at least one example of exhaust already fitted to bike.<br>
+            - filter options to display all products for chosen 1 brand only<br>
+            - functionality of social media: like / share.
+
+* Media page<br>
+    Brings the prospect client behind the scenes of exhaust production. Video brings some level of excitement about the product, the visitor to the page gets to see the man behind the company before they contact Wojtek and can appreciate a craftmanship that may bring over decision to make first step and become a buyer. <br>
+    This is followed by various articles to showcase Spyramoto presence in media with date of publication - these confirms that Wojtek – the owner, is trustful player on the market and company is stable and reliable. This impression was one of the keys to assure visitor this is not a scam business nor some freshly started EU granted project that could collapse after time essential to keep donated grants. Yes, this is life.<br>
+
+
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+### Features testing
+- Links, pictures, video and all featrued tested for leading to correct place, proper hover (where applicable), opening internal or blank page etc.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
 
 ### Features Left to Implement
 - Buy now
@@ -203,56 +246,99 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-
-<!-- Popper.js and jQuerry - both as part of Boootstrap -->
-
-Photoshop?
-Bootstrap
-Font Awesome
+    - Popper.js and jQuerry 
+    - Photoshop
+    - Bootstrap 
+    - Font Awesome
 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Tested on PC, laptop, iMac, iPad, notebook and dozen smartphones plus my reviewers devices.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-<!-- Tested: links (correct destination, blank or not etc), hovers, responsiveness -->
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+1. Contact form implemented on level to conform returned values.
+   
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Site deplyed successfully.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+### Other
+* Licenses:
+•	Hover.css is made available under a free personal/open source license.
+•	Copyrights of Third parties quotations requests approved
+<br>
+Interactive:
+•	Hover 
+o	social media icons – turning into “owner’s yellow”,
+o	author in video description.
+•	Copyrights of Third parties quotations requests approved.
+<br>
+Other sources:
+•	Google Fonts
+o	Montserrat (content)
+o	Notable (titles)
+<br>
+Responsiveness:
+•	SpyraSparksmaster8.png  - a little roundy sparky another logo of owner displayed in top right corner only for displays md +
+•	CUSTOM EXHAUST #1 – Main title centered on displays sm and smaller
+•	Contact icons – in footer, hidden for displays 576 – 870px to keep clearer look for this section without breaking line into 2 rows
+•	Contact paragraph -  decreased padding (screens 871-950px) for better visual positioning content of div
+•	<br> in Intro Title – visible on displays xs and sm 
+•	block divider to separate interviews for displays xs-sm
+•	Second and 3rd row of Reviews available only for md+ - with extra message about that displayed only on smartphones
+•	Pictures dividing subsections in Exthaust Tuning section – visible for md+
+•	Spacer  vividing rows in Range – Meet the monsters section md+
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+Responsivness tested at:
+•	http://ami.responsivedesign.is/
+
+<br>
+Versions:
+•	At some stage I had to separate ideas that I wanted to implement into project from real version structured to match owner expectations. 
+•	Final result placed as public on GitHub will be different from actual business site tailored to their demands. This is just for portfolio display needs.
+<br>
+Used Languages:
+-	HTML
+-	CSS
+-	MARK DOWN (Readme language) !
+
+<br>
+Efficiency:
+•	Simplified code - reduced number of separate targeting in css.
+•	Loading speed increased – reduced size of graphic elements during editing and saving process (eg. responsive avatar, favicon, logos 96ms loading time)
+•	All image supplied with Alt captions for better positioning and good practice.
+
+<br>
+Graphic credits:
+•	edited owner delivered logo to create avatar matching design line
+•	edited owner delivered logo to create main logo and extracted favicon
+•	created own graphic in Photoshop – oval car stickers to mark language of particular interview
+•	edited product pictures
+<br>
+
+Other tools:
+-	Font finder 	https://www.myfonts.com/WhatTheFont/result
+-	Photoshop 2020
+-	Chrom Dev Tool (device frames for screenshots, testing Network (loading status – 200))
+-	Diff checker – comparing versions ( https://www.diffchecker.com/s1i2zWFd )
+
+<br>
+Design:
+durng process of creating I discovered that actual picture of bikes send by customers are to importand to be reduced into thumbnail size that suits rather to users avatars while I wanted to expose all beauty of ready mounted product to give much stronger impression, so initial idea has been modified and Bootstrap Cards proved to be very helpful.
+Motorcycle brand buttons customised to match official color coding for Yamaha Red, BMW blue and Harley Orange
+
+Page design with rule of third , even for two-columned sections they’re 1/3 + 2/3 of the page width.
+ <br>
+ Lessons learned:
+-	insist on Client to deliver required spreadsheet
+-	special characters of business sector – inches, diameters ¾, Pounds, “>” etc…
+<br>
 
 
 ## Credits
 
 ### Content
-- All original content written by developer, except:
-    - quoted reviews
-    - quoted press articles
-    
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
 - Press Intervews quotation approved by sources:
     - Blog
     - Made In Swietokrzyskie
@@ -268,54 +354,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 - I adapted Contact form inspired by Dinesh Varyani here: https://www.youtube.com/watch?v=9dL516qYL4w
 
-
-
- <!-- ALL ABOVE TO BE EDITED!  -->
-
-`FRESH NOTES FOR LATER:`
-
-* The goal is to motivate an audience to take next step (call, text, e-mail or submit a web inquiry). Pages and features implemented are serving to that goal by many ways.
-
-* More customers - who are these customers? How many more of them is needed? What exactly is expected of customers (BUY in first place, FOLLOW social media helping spread of the brand among friends)
-
-* 
-
-* Goal is measureable via number of requests send to owner via social media and available contact details such as phone, whatsup or e-mail
-
-* Perfect customer: visits webbsite, sends enquire to oreder pipes it's once-off, pretty rare that same customer will buy another pipes over the time. Next he could share his pretty pipes around all friends getting them jealous but interested.
-
-* Whats working? What's not working? What could be better?
-
-====
-<br>
-<br>
-
-
---------
-
-
-
-## VALUES
-
-<br>
-<br>
-
-
-
-### FOR USER / VISITOR
-
-The user has access to the gallery, gets offers, sees range of products and has possibility to ask for price or any additional <br>
-questions through form or using contact details. Here highlighted WhatsApp feature informs that unwelcomed international <br>
-call/text costs can be avoided, handy especially to ease contact for overseas buyers (company has a global range of consumers).
-<br><br>
-Visitor can recognise credibility of company, an essential verification based on insight into company social media profiles. <br>
-That allows to assess owner’s timeline, check quality of followers, number of comments and likes. In times of scam websites <br>
-and fake sellers it is appreciated “tool” for customer. Meanwhile it works perfectly for the owner to attract visitor to become <br>
-a follower or further - earn a buyer.
-<br><br>
-Contact form delivers simple communication channel to ask whatever they like.
-<br><br>
-<br>
 ### HUMBLE ME
 
 This project delivers values for both client and users. And for me, so it’s win-win-win
@@ -324,14 +362,11 @@ This was great opportunity to create content, set and consult PR line, invent an
 that with good design. 
 
 
-<br><br>
---------
 
 Thanks for reading!
 
 Bart
 
-<br><br><br><br><br><br><br>
 
 Credits for readme.md:
 
@@ -344,22 +379,3 @@ Credits for project:
 - Jonathan Munz
 - Kasia Bogucka
 
-
-
-
-## Keep just for sampling in `.md` file
-
-
-**Try this:** Ekhm _Prettier_ code *Open Browser* beautifier `app.py` extension now _do not_ auto-delete.
-
-**Simply Samlpe:** This is the longest line bla bla bla bla bla bla bla bla will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png
-
-
-
-Thanks for reading!
-
-Bart
