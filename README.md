@@ -28,8 +28,8 @@ It will be a debut website as they ran only social media accounts until now but 
 ## Contents:
 
 * TO DO
-    *  
-    * warning style bckgrnd for warning disclaimer
+    * Apply
+    * Check
 * UX (User Experience)
     * Project Goals
     * Business Goals
@@ -83,7 +83,7 @@ information demanded by customers and desired by owner.
 
 * Improve communication with potential customers. 
     * Present contact details for different communication channels.
-        * Highlight benefits of WhatsApp contact.
+        * Highlight benefits of WhatsApp costless contact.
    
 * Increase number of social media real followers.
     * stablishing easy access to owners socials channels.
@@ -119,14 +119,14 @@ information demanded by customers and desired by owner.
     * long time of product delivered, 
     * fake company (scam), 
     * unskilled welder (bungler),
-    * `poor materials` / quality, 
-    * bad look of product. 
+    * poor materials / quality, 
+    * bad look of product (aesthetics). 
     
 
 * How to help them? 
     * clear straight prices, 
     * walk through order to delivery process
-    * assurance of delivery fee included, 
+    * assurance of delivery fee included (where possible - currently Europe), 
     * gain trust by proving buyers good experience and social media reputation, pictures of products and from buyerrs feedback.
 
 
@@ -151,36 +151,29 @@ that led to creating cool picture in terms of overall marketing and public relat
 
 The main expected user falls into one of the below criteria:
 
-1. Mtorcycle owner
-Motorcycle enthusiast
-biker family / friends
+* Motorcycle owner
+* Motorcycle / classic / vehicle enthusiast
+* Biker family or friends
 
-2. Someone who seen one of the page photo content in image searching machine by looking for custom-built botorbike
-2. Someone wanting a quiz time waster with little to invest
-3. Quiz enthusiast
+*  Someone who seen one of the page photo content in image searching machine by looking for custom-built botorbike
 
-With regards to other sites online, this site ideally needs to be
-
-1. Easy to use
-2. Be quick and easy to start and complete
-3. Be able to restart and keep the user engaged consistently
-4. Be updated with new content regularly 
-5. Visually appealing but not too harsh on the eye
 
 
 ### User stories
 
 
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
+Research done at beggining of creatng this website delivered following goals:
+* Need to veryfy if company is real
+* Products quality/look meets potential buyer's expectations
+* Find a proce without hassle of asking for 
+* Get a contact details to ask specific questions
 
 
+<img src="./assets/images/RM_bikeshed.png"> 
+<img src="./assets/images/RM_screen05.png"> <br>
+<img src="./assets/images/RM_screen05.png">
+<img src="./assets/images/wireframesketch.jpeg">
 
 
 
